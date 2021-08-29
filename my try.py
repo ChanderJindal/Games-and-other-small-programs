@@ -14,9 +14,6 @@ class BOX:
     def board_maker(self): # making of board (mines)
         #board = [[0]*self.dim_sz]*self.dim_sz
        # board = [ [None for i in range(self.dim_sz)] for i in range(self.dim_sz) ] # made an empty grid
-        for i in range(self.dim_sz):
-            for j in range(self.dim_sz):
-                self.board[i][j] = 0 
         mines_to_plant = self.mines # taking in number of mines to plant
 
         while mines_to_plant > 0: 
@@ -25,12 +22,6 @@ class BOX:
             if self.board[row][col] == 0:
                 self.board[row][col] = -1 # planting a mine
                 mines_to_plant -= 1
-                print(row,col)
-                for i in range(self.dim_sz):
-                    for j in range(self.dim_sz):
-                         print(self.board[i][j],end=' ')
-                    print(' ')
-
 
     def board_vals(self):
         for i in range(self.dim_sz):
@@ -40,8 +31,8 @@ class BOX:
 
     def get_mines(self,i,j): # a simple fxn to get no. of mines
         val = 0
-        for r in range( max(0,i-1) , min(self.dim_sz-1,i+1) ): #min , max fxn make sure, it says in range
-            for c in range( max(0,j-1) , min(self.dim_sz-1,j+1) ): # checks all the blocks around the chosen box
+        for r in range( max(0,i-1) , min(self.dim_sz-1,i+1)+1 ): #min , max fxn make sure, it says in range
+            for c in range( max(0,j-1) , min(self.dim_sz-1,j+1)+1 ): # checks all the blocks around the chosen box
                 if self.board[r][c] == -1: val = val + 1 # yes, it counts original box, which fails this condition and is not counted
         return val
 
