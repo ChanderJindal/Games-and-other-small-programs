@@ -7,22 +7,22 @@ class BOX:
         self.dim_sz = dim_sz # keeping track of the size
         self.mines = mines # keeping track of mines 
         self.checked = set() #to keep track of locations that have been checked
-        self.board = [[0 for i in range(dim_sz)] for j in range(dim_sz)]
-        self.board_maker() # the main stuff
+        self.board = self.board_maker() # the main stuff
         self.board_vals()
 
     def board_maker(self): # making of board (mines)
         #board = [[0]*self.dim_sz]*self.dim_sz
        # board = [ [None for i in range(self.dim_sz)] for i in range(self.dim_sz) ] # made an empty grid
+        board = [[0 for i in range(self.dim_sz)] for j in range(self.dim_sz)]
         mines_to_plant = self.mines # taking in number of mines to plant
 
         while mines_to_plant > 0: 
             row = random.randint(0,self.dim_sz-1) # picking up row and col for each mine
             col = random.randint(0,self.dim_sz-1)
-            if self.board[row][col] == 0:
-                self.board[row][col] = -1 # planting a mine
+            if board[row][col] == 0:
+                board[row][col] = -1 # planting a mine
                 mines_to_plant -= 1
-
+        return board
     def board_vals(self):
         for i in range(self.dim_sz):
             for j in range(self.dim_sz): #O(n^2) loop
