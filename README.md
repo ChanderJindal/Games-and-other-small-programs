@@ -1,2 +1,2 @@
 # side-projects
-My pyython projects
+My python projects
