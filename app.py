@@ -26,6 +26,12 @@ for i in range(gc.NUM_TILES_SIDE):
     for j in range(gc.NUM_TILES_SIDE):
         tiles[i][j] = animal.Image(i,j,actual_part[i][j])
 
+def show_actual_board():
+    for i in range(gc.NUM_TILES_SIDE):
+        for j in range(gc.NUM_TILES_SIDE):
+            screen.blit(actual_part[i][j], (tile.col * gc.IMAGE_SIZE + gc.MARGIN, tile.row * gc.IMAGE_SIZE + gc.MARGIN))
+    sleep(2.0)
+
 while running:
     current_events = event.get()
 
@@ -40,6 +46,13 @@ while running:
         if e.type == pygame.MOUSEBUTTONDOWN:
             mouse_x, mouse_y = pygame.mouse.get_pos()
             row, col, index = find_index_from_xy(mouse_x, mouse_y)
+            if actual_part[row][col] == 9:
+                screen.blit(image.load('assets/11.png'), (0, 0))
+                running = False
+                print('You Lose!')
+                sleep(1.5)
+                show_actual_board()
+                sleep(2.5)
             if (row,col) not in board.checked:
                 board.dig(row,col)
                 
@@ -51,15 +64,18 @@ while running:
     for i in range(gc.NUM_TILES_SIDE):
         for j in range(gc.NUM_TILES_SIDE):
             tile = tiles[i][j]
-            current_image = tile.image if (i,j) in board.checked else tile.box
-            if (i,j) not in board.checked :
-                screen.blit(current_image, (tile.col * gc.IMAGE_SIZE + gc.MARGIN, tile.row * gc.IMAGE_SIZE + gc.MARGIN))
+            current_image = tile.image 
+            if (i,j) not in board.checked:
+                current_image = tile.box
+            screen.blit(current_image, (tile.col * gc.IMAGE_SIZE + gc.MARGIN, tile.row * gc.IMAGE_SIZE + gc.MARGIN))
 
     display.flip()
 
     if len(board.checked) == gc.NUM_TILES_TOTAL - gc.MINES:
         running = False
         screen.blit(image.load('assets/12.png'), (0, 0))
+        print('You Win!')
+        sleep(1.5)
 
 print('Goodbye!')
 

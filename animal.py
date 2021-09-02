@@ -18,6 +18,7 @@ class Image: #Animal
         self.image_path = os.path.join(gc.ASSET_DIR, self.name)
         self.row = r 
         self.col = c 
+        self.seen = False
         self.image = image.load(self.image_path)
         self.image = transform.scale(self.image, (gc.IMAGE_SIZE - 2 * gc.MARGIN, gc.IMAGE_SIZE - 2 * gc.MARGIN))
         self.box = self.image.copy()
