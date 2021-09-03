@@ -51,6 +51,8 @@ while running:
         if e.type == pygame.MOUSEBUTTONDOWN:
             mouse_x, mouse_y = pygame.mouse.get_pos()
             row, col, index = find_index_from_xy(mouse_x, mouse_y)
+            if row >= gc.NUM_TILES_SIDE or col >= gc.NUM_TILES_SIDE:
+                continue
             if (row,col) not in board.checked:
                 val = board.dig(row,col)
             if val is False:

@@ -67,7 +67,13 @@ class BOX:
         for row in range(self.dim_sz):
             for col in range(self.dim_sz):
                     visible_board[row][col] = self.board[row][col]
+        '''
         #print(visible_board[0][0])
+        for i in range(self.dim_sz):
+            for j in range(self.dim_sz):
+                print(visible_board[i][j],end=" ")
+            print(' ')
+            '''
         return visible_board
 
 #play function
