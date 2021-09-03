@@ -35,8 +35,7 @@ def actual_board_display():
             tile = tiles[i][j]
             screen.blit(tile.image, (tile.col * gc.IMAGE_SIZE + gc.MARGIN, tile.row * gc.IMAGE_SIZE + gc.MARGIN))
     display.flip()
-    sleep(10)
-
+    sleep(5)
 
 while running:
     current_events = event.get()
@@ -56,6 +55,7 @@ while running:
                 val = board.dig(row,col)
             if val is False:
                 running = False
+                print('You Lose!')
                 actual_board_display()
 
                 
@@ -74,6 +74,7 @@ while running:
 
     if len(board.checked) == gc.NUM_TILES_TOTAL - gc.MINES:
         running = False
+        print('You Win!')
         screen.blit(image.load('assets/12.png'), (0, 0))
         display.flip()
         sleep(2.1)
