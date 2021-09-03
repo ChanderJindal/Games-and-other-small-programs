@@ -13,7 +13,7 @@ def find_index_from_xy(x, y):
     return row, col, index
 
 pygame.init()
-display.set_caption('My Game')
+display.set_caption('Mineswipper')
 screen = display.set_mode((gc.SCREEN_SIZE, gc.SCREEN_SIZE))
 running = True
 
@@ -25,6 +25,19 @@ tiles = [[None for _ in range(gc.NUM_TILES_TOTAL)] for _ in range(gc.NUM_TILES_T
 for i in range(gc.NUM_TILES_SIDE):
     for j in range(gc.NUM_TILES_SIDE):
         tiles[i][j] = animal.Image(i,j,actual_part[i][j])
+
+def actual_board_display():
+    screen.blit(image.load('assets/11.png'), (0, 0))
+    display.flip()
+    sleep(2.1)
+    screen.fill((0, 0, 0))
+    for i in range(gc.NUM_TILES_SIDE):
+        for j in range(gc.NUM_TILES_SIDE):
+            tile = tiles[i][j]
+            screen.blit(tile.image, (tile.col * gc.IMAGE_SIZE + gc.MARGIN, tile.row * gc.IMAGE_SIZE + gc.MARGIN))
+    display.flip()
+    sleep(10)
+
 
 while running:
     current_events = event.get()
@@ -41,7 +54,11 @@ while running:
             mouse_x, mouse_y = pygame.mouse.get_pos()
             row, col, index = find_index_from_xy(mouse_x, mouse_y)
             if (row,col) not in board.checked:
-                board.dig(row,col)
+                val = board.dig(row,col)
+            if val is False:
+                running = False
+                actual_board_display()
+
                 
 
     # Display animals
@@ -59,21 +76,8 @@ while running:
     if len(board.checked) == gc.NUM_TILES_TOTAL - gc.MINES:
         running = False
         screen.blit(image.load('assets/12.png'), (0, 0))
+        display.flip()
+        sleep(2.1)
 
 print('Goodbye!')
-
-'''
-    # Check for matches
-    if len(current_images_displayed) == 2:
-        idx1, idx2 = current_images_displayed
-        if tiles[idx1].name == tiles[idx2].name:
-            tiles[idx1].skip = True
-            tiles[idx2].skip = True
-            # display matched message
-            sleep(0.2)
-            screen.blit(matched, (0, 0))
-            display.flip()
-            sleep(0.5)
-            current_images_displayed = []
-'''
 
