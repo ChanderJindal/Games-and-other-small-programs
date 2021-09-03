@@ -3,8 +3,7 @@ import game_config as gc
 import mineswipper as game
 from pygame import display, event, image
 from time import sleep
-import animal
-#from animal import Animal
+import Images
 
 def find_index_from_xy(x, y):
     row = y // gc.IMAGE_SIZE
@@ -24,7 +23,7 @@ actual_part = board.actual_board()
 tiles = [[None for _ in range(gc.NUM_TILES_TOTAL)] for _ in range(gc.NUM_TILES_TOTAL)]
 for i in range(gc.NUM_TILES_SIDE):
     for j in range(gc.NUM_TILES_SIDE):
-        tiles[i][j] = animal.Image(i,j,actual_part[i][j])
+        tiles[i][j] = Images.Image(i,j,actual_part[i][j])
 
 def actual_board_display():
     screen.blit(image.load('assets/11.png'), (0, 0))
@@ -61,7 +60,7 @@ while running:
 
                 
 
-    # Display animals
+    # Display 
     screen.fill((0, 0, 0))
 
 
