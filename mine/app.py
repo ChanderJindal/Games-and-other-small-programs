@@ -52,8 +52,7 @@ while running:
         for j in range(gc.NUM_TILES_SIDE):
             tile = tiles[i][j]
             current_image = tile.image if (i,j) in board.checked else tile.box
-            if (i,j) not in board.checked :
-                screen.blit(current_image, (tile.col * gc.IMAGE_SIZE + gc.MARGIN, tile.row * gc.IMAGE_SIZE + gc.MARGIN))
+            screen.blit(current_image, (tile.col * gc.IMAGE_SIZE + gc.MARGIN, tile.row * gc.IMAGE_SIZE + gc.MARGIN))
 
     display.flip()
 
