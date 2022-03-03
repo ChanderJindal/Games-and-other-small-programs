@@ -1,41 +1,34 @@
 import pygame
 import game_config as gc
-import process as p
+from process import TicTacToe as T
 from pygame import display, event, image
 from time import sleep
 import Images
 
-def find_index_from_xy(x, y):
+def find_xy(x, y):
     row = y // gc.IMAGE_SIZE
     col = x // gc.IMAGE_SIZE
-    index = row * gc.NUM_TILES_SIDE + col
-    return row, col, index
+    return row, col
 
 pygame.init()
 display.set_caption('Tic-Tac-Toe')
 screen = display.set_mode((gc.SCREEN_SIZE, gc.SCREEN_SIZE))
 running = True
 
-board = game.BOX(gc.NUM_TILES_SIDE,gc.MINES)
-visible_part = board.visible_part()
-actual_part = board.actual_board()
+Game = T("X",gc.NUM_TILES_SIDE)
 
-tiles = [[None for _ in range(gc.NUM_TILES_TOTAL)] for _ in range(gc.NUM_TILES_TOTAL)]
-for i in range(gc.NUM_TILES_SIDE):
-    for j in range(gc.NUM_TILES_SIDE):
-        tiles[i][j] = Images.Image(i,j,actual_part[i][j])
 
-def actual_board_display():
-    screen.blit(image.load('assets/11.png'), (0, 0))
-    display.flip()
-    sleep(2.1)
+def update_board_display():
+    screen.blit(image.load('assets/blank.png'), (0, 0))
+    sleep(1)
     screen.fill((0, 0, 0))
     for i in range(gc.NUM_TILES_SIDE):
         for j in range(gc.NUM_TILES_SIDE):
-            tile = tiles[i][j]
-            screen.blit(tile.image, (tile.col * gc.IMAGE_SIZE + gc.MARGIN, tile.row * gc.IMAGE_SIZE + gc.MARGIN))
+            tile = Images.Image(Game.board[i][j])
+            screen.blit(tile.image, (j * gc.IMAGE_SIZE + gc.MARGIN, i * gc.IMAGE_SIZE + gc.MARGIN))
     display.flip()
-    sleep(5)
+    sleep(1)
+    
 
 while running:
     current_events = event.get()
@@ -50,36 +43,29 @@ while running:
 
         if e.type == pygame.MOUSEBUTTONDOWN:
             mouse_x, mouse_y = pygame.mouse.get_pos()
-            row, col, index = find_index_from_xy(mouse_x, mouse_y)
+            row, col = find_xy(mouse_x, mouse_y)
             if row >= gc.NUM_TILES_SIDE or col >= gc.NUM_TILES_SIDE:
                 continue
-            if (row,col) not in board.checked:
-                val = board.dig(row,col)
-            if val is False:
+            if Game.MoveRecord(row,col) == True:
+                val = Game.CheckWin()
+            if val == 1:
+                running = False
+                print('You Win!')
+                screen.blit(image.load('assets/win.png'), (0, 0))
+            elif val == 0:
                 running = False
                 print('You Lose!')
-                actual_board_display()
+                screen.blit(image.load('assets/lose.png'), (0, 0))
+            else:
+                Game.NextMove()
+                update_board_display()
+            display.flip()
+            sleep(2.1)
 
-                
-
+            
     # Display 
     screen.fill((0, 0, 0))
 
-
-    for i in range(gc.NUM_TILES_SIDE):
-        for j in range(gc.NUM_TILES_SIDE):
-            tile = tiles[i][j]
-            current_image = tile.image if (i,j) in board.checked else tile.box
-            screen.blit(current_image, (tile.col * gc.IMAGE_SIZE + gc.MARGIN, tile.row * gc.IMAGE_SIZE + gc.MARGIN))
-
-    display.flip()
-
-    if len(board.checked) == gc.NUM_TILES_TOTAL - gc.MINES:
-        running = False
-        print('You Win!')
-        screen.blit(image.load('assets/12.png'), (0, 0))
-        display.flip()
-        sleep(2.1)
 
 print('Goodbye!')
 
