@@ -1,3 +1,4 @@
+
 class TicTacToe:
     def __init__(self,pick,sz=3):
         self.pick = pick
@@ -47,9 +48,9 @@ class TicTacToe:
                     flag22 = False
                 else: flag12 = False
 
-            if flag11 or flag12:# I won
+            if flag11 is True or flag12 is True:# I won
                 return 1
-            if flag21 or flag22:#Computer Won
+            if flag21 is True or flag22 is True:#Computer Won
                 return 0
 
         #Diagonals#
@@ -94,63 +95,68 @@ class TicTacToe:
         for i in range(0,self.dim_sz):
             for j in range(0,self.dim_sz):
                 if self.board[i][j] == 'blur':#BLANK
-                    AvailableMoves.append( tuple(i,j) )#add it to available moves
+                    t = (i,j)
+                    AvailableMoves.append( t )#add it to available moves
                     self.board[i][j] = CompPick#Check if I (Computer can win)
                     temp = self.CheckWin()
-                    if temp ==0:#Best Case I win!
+                    if temp ==0:#Best Case I(Computer) win!
                         return i,j;
                     elif temp == 1: #Second Best Case, he (player) didn't won
-                        PlayerWinSpot.append( tuple(i,j) )
+                        PlayerWinSpot.append(t )
                     #Tie till now
                     self.board[i][j] = 'blur'
-        
+        if len(PlayerWinSpot) != 0:
+            self.board[PlayerWinSpot[0][0]][PlayerWinSpot[0][1]] = CompPick
+            return PlayerWinSpot[0][0],PlayerWinSpot[0][1]
         if len(AvailableMoves) == 0:
-            return tuple(-1,-1)
+            return -1,-1
 
         c1 , c2  = self.dim_sz//2,self.dim_sz//2
-        if tuple(c1,c2) in AvailableMoves:#CENTER 
+        if (c1,c2) in AvailableMoves:#CENTER 
             self.board[c1][c2] = CompPick
             return c1,c2
         for i in range(c1-1,-1,-1):#IN TO OUT
             gap = c1 - i
             #checking  - 4 possibilities at max
                                                      #EDGES 
-            if  tuple(c1-gap,c2-gap) in AvailableMoves:
+            if  (c1-gap,c2-gap) in AvailableMoves:
                 self.board[c1-gap][c2-gap] = CompPick
                 return c1-gap,c2-gap
-            if  tuple(c1-gap,c2+gap) in AvailableMoves:
+            if  (c1-gap,c2+gap) in AvailableMoves:
                 self.board[c1-gap][c2+gap] = CompPick
                 return c1-gap,c2+gap
-            if  tuple(c1+gap,c2-gap) in AvailableMoves:
+            if  (c1+gap,c2-gap) in AvailableMoves:
                 self.board[c1+gap][c2-gap] = CompPick
                 return c1+gap,c2-gap
-            if  tuple(c1+gap,c2+gap) in AvailableMoves:
+            if  (c1+gap,c2+gap) in AvailableMoves:
                 self.board[c1+gap][c2+gap] = CompPick
                 return c1+gap,c2+gap
 
             #Four Lines
 
             for i in range(0,gap):
-                if  tuple(c1-gap,c2-gap+i) in AvailableMoves:#TOP LEFT TO TOP RIGHT
+                if  (c1-gap,c2-gap+i) in AvailableMoves:#TOP LEFT TO TOP RIGHT
                     self.board[c1-gap][c2-gap+i] = CompPick
                     return c1-gap,c2-gap+i
-                if  tuple(c1+gap,c2-gap+i) in AvailableMoves:#BOTTOM LEFT TO BOTTOM RIGHT
+                if  (c1+gap,c2-gap+i) in AvailableMoves:#BOTTOM LEFT TO BOTTOM RIGHT
                     self.board[c1+gap][c2-gap+i] = CompPick
                     return c1+gap,c2-gap+i
-                if  tuple(c1-gap,c2-gap) in AvailableMoves:#LEFT TOP TO LEFT BOTTOM
+                if  (c1-gap,c2-gap) in AvailableMoves:#LEFT TOP TO LEFT BOTTOM
                     self.board[c1-gap+i][c2-gap] = CompPick
                     return c1-gap+i,c2-gap
-                if  tuple(c1-gap+i,c2+gap) in AvailableMoves:#RIGHT TOP TO RIGHT BOTTOM
+                if  (c1-gap+i,c2+gap) in AvailableMoves:#RIGHT TOP TO RIGHT BOTTOM
                     self.board[c1-gap+i][c2+gap] = CompPick
                     return c1-gap+i,c2+gap
 
 if __name__ == "__main__":
-    print("Hello!")
-                    
-        
-
-
-
-        
-
-        
+    Game = TicTacToe("X")
+    for i in range(0,10):
+        print(Game.board)
+        move = list(map(int,input().split()) )
+        print(Game.MoveRecord(move[1],move[0]))  
+        print(Game.CheckWin())  
+        r,c = Game.NextMove()
+        Game.board[r][c] = "blur"
+        Game.board[c][r] = "O"
+        print("(",r", ",c,")")  
+        print(Game.CheckWin())    
