@@ -31,8 +31,8 @@ class TicTacToe:
             flag22 = True 
             for j in range(0,self.dim_sz):
 
-                ch1 = self.board[i][j]
-                ch2 = self.board[j][i]
+                ch2 = self.board[i][j]
+                ch1 = self.board[j][i]
                                        #Row
                 if ch1 == self.pick:# if it's mine, computer didn't make it
                     flag21 = False
@@ -61,8 +61,8 @@ class TicTacToe:
         flag22 = True 
         for i in range(0,self.dim_sz):
 
-            ch1 = self.board[i][i]
-            ch2 = self.board[i][self.dim_sz-1-i]
+            ch2 = self.board[i][i]
+            ch1 = self.board[i][self.dim_sz-1-i]
 
             if ch1 == self.pick:
                 flag21 = False
@@ -94,24 +94,27 @@ class TicTacToe:
             CompPick = 'X'
         for i in range(0,self.dim_sz):
             for j in range(0,self.dim_sz):
+
                 if self.board[i][j] == 'blur':#BLANK
                     t = (i,j)
-                    AvailableMoves.append( t )#add it to available moves
+                    AvailableMoves.append(t)#add it to available moves
                     self.board[i][j] = CompPick#Check if I (Computer can win)
-                    temp = self.CheckWin()
-                    if temp ==0:#Best Case I(Computer) win!
+                    if self.CheckWin() ==0:#Best Case I(Computer) win!
                         return i,j;
-                    elif temp == 1: #Second Best Case, he (player) didn't won
-                        PlayerWinSpot.append(t )
-                    #Tie till now
+                    self.board[i][j] = self.pick
+                    if self.CheckWin() == 1: #Second Best Case, he (player) didn't won
+                        PlayerWinSpot.append(t)
                     self.board[i][j] = 'blur'
+
         if len(PlayerWinSpot) != 0:
-            self.board[PlayerWinSpot[0][0]][PlayerWinSpot[0][1]] = CompPick
+            self.board[PlayerWinSpot[0][0]] [PlayerWinSpot[0][1]] = CompPick
             return PlayerWinSpot[0][0],PlayerWinSpot[0][1]
+        print(AvailableMoves)
         if len(AvailableMoves) == 0:
             return -1,-1
 
         c1 , c2  = self.dim_sz//2,self.dim_sz//2
+        print(c1,c2,self.dim_sz)
         if (c1,c2) in AvailableMoves:#CENTER 
             self.board[c1][c2] = CompPick
             return c1,c2
@@ -153,10 +156,8 @@ if __name__ == "__main__":
     for i in range(0,10):
         print(Game.board)
         move = list(map(int,input().split()) )
-        print(Game.MoveRecord(move[1],move[0]))  
+        print(Game.MoveRecord(move[0],move[1]))  
         print(Game.CheckWin())  
-        r,c = Game.NextMove()
-        Game.board[r][c] = "blur"
-        Game.board[c][r] = "O"
-        print("(",r", ",c,")")  
+        t = Game.NextMove()
+        print("(",t[0],", ",t[1],")")  
         print(Game.CheckWin())    
