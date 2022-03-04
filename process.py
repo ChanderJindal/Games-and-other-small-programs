@@ -110,6 +110,9 @@ class TicTacToe:
             self.board[PlayerWinSpot[0][0]] [PlayerWinSpot[0][1]] = CompPick
             return PlayerWinSpot[0][0],PlayerWinSpot[0][1]
         print(AvailableMoves)
+        if len(AvailableMoves) == 1:
+            self.board[ AvailableMoves[0][0] ][ AvailableMoves[0][1] ] = CompPick
+            return [ AvailableMoves[0][0] ],[ AvailableMoves[0][1] ]
         if len(AvailableMoves) == 0:
             return -1,-1
 
