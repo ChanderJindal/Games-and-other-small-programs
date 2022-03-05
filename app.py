@@ -1,4 +1,5 @@
-from unicodedata import name
+from ctypes.wintypes import PINT
+from numpy import source
 import pygame
 import game_config as gc
 from process import TicTacToe as T
@@ -57,19 +58,53 @@ def run(Game : T,screen : pygame.Surface, running : bool):
                     print('You Lose!')
                     screen.blit(image.load('assets/lose.png'), (0, 0))
                 else:
-                    Game.NextMove()
+                    a,b = Game.NextMove()
+                    print(a,b, " here ")
+                    if a == -1 and b == -1:
+                        running = False
+                        screen.blit(image.load('assets/tie.png'), (0, 0))
+                        display.flip()
+                        sleep(2.3)
+                        break;
                     update_board_display(screen=screen,Game=Game)
                 display.flip()
                 sleep(2.1)
+def Pick(screen : pygame.Surface):
+    #X = Images.Image("x")
+    X = pygame.transform.scale( pygame.image.load("assets/x.png"), (gc.SCREEN_SIZE//2, gc.SCREEN_SIZE//2))
+    #O = Images.Image("o")
+    O = pygame.transform.scale( pygame.image.load("assets/o.png"), (gc.SCREEN_SIZE//2, gc.SCREEN_SIZE//2))
+    screen.blit(pygame.transform.scale(image.load('assets/blank.png'), (gc.SCREEN_SIZE, gc.SCREEN_SIZE)), ( 0,0))
+    display.flip()
+    rect = pygame.Rect(0, 0, gc.SCREEN_SIZE//2, gc.SCREEN_SIZE//2)
+    #pygame.Rect(left, top, width, height)
+    screen.blit(source=O, dest=( 0,0),area=rect)
+    #screen.blit
+    rect = pygame.Rect(gc.SCREEN_SIZE//2, gc.SCREEN_SIZE//2, gc.SCREEN_SIZE//2, gc.SCREEN_SIZE//2)
+    screen.blit(source=X, dest=( gc.SCREEN_SIZE//2, gc.SCREEN_SIZE//2),area=rect)
+    display.flip()
+    #blit -> source , start point , area <- trial
+    mouse_x, mouse_y = pygame.mouse.get_pos()
+    if mouse_x < gc.SCREEN_SIZE//2:
+        return "O"
+    return "X"
 
-            
-    # Display 
-    screen.fill((0, 0, 0))
+def pick_retry(screen : pygame.Surface) -> str:
+    X = Images.Image("x")
+    O = Images.Image("o")
+    screen.blits( blit_sequence=[ (X.image , (0,0) , pygame.Rect(0,0,gc.SCREEN_SIZE//2,gc.SCREEN_SIZE//2)), (O.image , (gc.SCREEN_SIZE//2,gc.SCREEN_SIZE//2) , pygame.Rect(gc.SCREEN_SIZE//2,gc.SCREEN_SIZE//2,gc.SCREEN_SIZE,gc.SCREEN_SIZE)) ] )
+    display.flip()
+
+    x,y = pygame.mouse.get_pos()
+    if x < gc.SCREEN_SIZE//2:
+        return "X"
+    return "O"
 
 def play():
     screen = initial()
     running = True
-    Game = T("X",gc.NUM_TILES_SIDE)
+    pick = pick_retry(screen=screen)
+    Game = T(pick,gc.NUM_TILES_SIDE)
     run(Game,screen,running)
 
 if __name__ == "__main__":
