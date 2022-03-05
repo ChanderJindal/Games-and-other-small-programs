@@ -89,7 +89,7 @@ def Pick(screen : pygame.Surface):
         return "O"
     return "X"
 
-def pick_retry(screen : pygame.Surface) -> str:
+def pick_try2(screen : pygame.Surface) -> str:
     X = Images.Image("x")
     O = Images.Image("o")
     screen.blits( blit_sequence=[ (X.image , (0,0) , pygame.Rect(0,0,gc.SCREEN_SIZE//2,gc.SCREEN_SIZE//2)), (O.image , (gc.SCREEN_SIZE//2,gc.SCREEN_SIZE//2) , pygame.Rect(gc.SCREEN_SIZE//2,gc.SCREEN_SIZE//2,gc.SCREEN_SIZE,gc.SCREEN_SIZE)) ] )
@@ -100,10 +100,26 @@ def pick_retry(screen : pygame.Surface) -> str:
         return "X"
     return "O"
 
+    #screen.blit(tile.image, (j * gc.IMAGE_SIZE + gc.MARGIN, i * gc.IMAGE_SIZE + gc.MARGIN))
+
+def pick_try3(screen : pygame.Surface) -> str:
+    X = Images.Image("x")
+    O = Images.Image("o")
+    screen.blit(X.image, (gc.MARGIN, gc.MARGIN))
+    screen.blit(O.image, (  gc.MARGIN, gc.IMAGE_SIZE + gc.MARGIN))
+    #screen.blits( blit_sequence=[ (X.image , (0,0) , pygame.Rect(0,0,gc.SCREEN_SIZE//2,gc.SCREEN_SIZE//2)), (O.image , (gc.SCREEN_SIZE//2,gc.SCREEN_SIZE//2) , pygame.Rect(gc.SCREEN_SIZE//2,gc.SCREEN_SIZE//2,gc.SCREEN_SIZE,gc.SCREEN_SIZE)) ] )
+    display.flip()
+
+    x,y = pygame.mouse.get_pos()
+    if x < gc.SCREEN_SIZE//2:
+        return "X"
+    return "O"
+
+
 def play():
     screen = initial()
     running = True
-    pick = pick_retry(screen=screen)
+    pick = pick_try3(screen=screen)
     Game = T(pick,gc.NUM_TILES_SIDE)
     run(Game,screen,running)
 
