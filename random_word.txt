@@ -1,0 +1,45 @@
+from random_word import RandomWords
+r = RandomWords()
+
+
+FOR 1 WORD 
+
+# Return a single random word
+r.get_random_word()
+# Return list of Random words
+r.get_random_words()
+# Return Word of the day
+r.word_of_the_day()
+
+In function functionalities
+
+hasDictionaryDef (string) - Only return words with dictionary definitions (optional)
+includePartOfSpeech (string) - CSV part-of-speech values to include (optional)
+excludePartOfSpeech (string) - CSV part-of-speech values to exclude (optional)
+minCorpusCount (integer) - Minimum corpus frequency for terms (optional)
+maxCorpusCount (integer) - Maximum corpus frequency for terms (optional)
+minDictionaryCount (integer) - Minimum dictionary count (optional)
+maxDictionaryCount (integer) - Maximum dictionary count (optional)
+minLength (integer) - Minimum word length (optional)
+maxLength (integer) - Maximum word length (optional)
+
+SYNTAX :- r.get_random_word(hasDictionaryDef="true", includePartOfSpeech="noun,verb", minCorpusCount=1, maxCorpusCount=10, minDictionaryCount=1, maxDictionaryCount=10, minLength=5, maxLength=10)
+
+
+FOR LIST OF WORDS 
+
+hasDictionaryDef (string) - Only return words with dictionary definitions (optional)
+includePartOfSpeech (string) - CSV part-of-speech values to include (optional)
+excludePartOfSpeech (string) - CSV part-of-speech values to exclude (optional)
+minCorpusCount (integer) - Minimum corpus frequency for terms (optional)
+maxCorpusCount (integer) - Maximum corpus frequency for terms (optional)
+minDictionaryCount (integer) - Minimum dictionary count (optional)
+maxDictionaryCount (integer) - Maximum dictionary count (optional)
+minLength (integer) - Minimum word length (optional)
+maxLength (integer) - Maximum word length (optional)
+sortBy (string) - Attribute to sort by alpha or count (optional)
+sortOrder (string) - Sort direction by asc or desc (optional)
+limit (integer) - Maximum number of results to return (optional)
+
+SYNTAX:- 
+r.get_random_words(hasDictionaryDef="true", includePartOfSpeech="noun,verb", minCorpusCount=1, maxCorpusCount=10, minDictionaryCount=1, maxDictionaryCount=10, minLength=5, maxLength=10, sortBy="alpha", sortOrder="asc", limit=15)
