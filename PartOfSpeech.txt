@@ -1,0 +1,8 @@
+1)Noun
+2)Pronoun
+3)Adjective
+4)Verb
+5)Conjunction 
+6)Adverb 
+7)Preposition
+8)Article

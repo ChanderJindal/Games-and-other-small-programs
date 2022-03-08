@@ -1,0 +1,1806 @@
+<!Doctype html>
+<html> 
+<head>
+<title>Apple - definition of apple by The Free Dictionary</title>
+<meta name="description" content="Define apple. apple synonyms, apple pronunciation, apple translation, English dictionary definition of apple. n. 1. a. A cultivated deciduous tree in the rose family, native to Eurasia and having alternate simple leaves and white or pink flowers. b. The firm,...">
+<base href="//www.thefreedictionary.com/">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" type="text/css" href="//img.tfd.com/all.css?0">
+<link rel="canonical" href="https://www.thefreedictionary.com/apple">
+<meta name="og:url" content="https://www.thefreedictionary.com/apple">
+<script type="text/javascript">_cb='?0';function ById(id){return document.getElementById(id)};var info={IsApp:0,word:'apple',Domain:'thefreedictionary.com',PageLang:'en',canonical:'https://www.thefreedictionary.com/apple',tab:1,sp:1,mode:0,flag:3133,isLogin:(/c\d\d[^;]*userTicket=[^;]*/.test(document.cookie)),a:'ee',isExtDomain:false},hp_title='Dictionary, Encyclopedia and Thesaurus - The Free Dictionary',abu='qrxnjfktqjrdfrdunvzcfkffkebfsg';(function(d,w){var t=/c11.*font=([12]\d)/g.exec(d.cookie);if(t&&t.length>1)d.documentElement.style.fontSize=t[1]+'px';w.bm='';var a=navigator.userAgent,e=a.indexOf('Trident/')>0||a.indexOf('MSIE')>0,f=w.sidebar,t=hp_title,u='http://www.thefreedictionary.com';if(e||f)w.bm='<li>
+<a href="'+(e?'javascript:external.AddFavorite(\''+u+'\',\''+t+'\')':u)+'" title="'+t+'" rel="sidebar">Bookmark</a>
+</li>'})(document,window);
+function waiting(id){ById(id).innerHTML='<img id="'+id+'_ld" width="16" height="16" src="//img.tfd.com/m/wait16.gif">';setTimeout(function(){if(ById(id+'_ld'))document.getElementById(id).innerHTML='Problem loading data'},10000)}
+</script>
+<script src="//img.tfd.com/async.js?0" async>
+</script>
+<link rel="icon" href="https://img.tfd.com/favicon.ico" type="image/x-icon">
+<link rel="manifest" href="/_/manifest.json">
+<style type="text/css">
+</style>
+<link rel="preconnect" href="//a.farlex.com/">
+<meta name="Keywords" content="apple, online dictionary, thesaurus, dictionary, English dictionary, apple definition, definition of apple, legal, medical, encyclopedia, term, law, explanation, information">
+<meta property="og:description" content="Definition, Synonyms, Translations of apple by The Free Dictionary">
+
+<link rel="alternate" href="android-app://com.tfd.mobile.TfdSearch/thefreedictionary/go/apple"/>
+<link rel="alternate" href="ios-app://379450383/thefreedictionary/search/apple"/>
+<meta property="og:title" content="apple">
+<meta property="og:type" content="article"> 
+<style type="text/css">
+.ee{margin:0 0 13px 0;display:block;overflow:hidden !important;width:100%}
+.ee iframe{display:block;margin:0 auto 3px auto}
+#ee1{height:90px}#ee2,#ee3,#ee4{margin:0 auto 13px auto;height:265px;width:300px}#ee5{height:375px}#ee3{height:615px}
+#sidebar div.ee,.feedback,.widget{margin-bottom:19px}
+@media only screen and (min-width:761px){#browsers .list-holder{height:390px}}
+</style>
+<link href="https://img.tfd.com/wn/F5/66BF7-apple.jpg" rel="image_src">
+<meta property="og:image" content="https://img.tfd.com/wn/F5/66BF7-apple.jpg"> 
+<meta property="og:image:width" content="126"> 
+<meta property="og:image:height" content="120"> 
+<meta property="og:site_name" content="TheFreeDictionary.com">
+<link rel="apple-touch-icon" href="https://img.tfd.com/touch/iphone.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://img.tfd.com/touch/iphone-r.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://img.tfd.com/touch/ipad-r.png">
+<!--[if IE 8]>
+<script src="//img.tfd.com/m/html5.js">
+</script>
+<![endif]-->
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "WebSite",
+  "url": "https://www.thefreedictionary.com/",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://www.thefreedictionary.com/_/search.aspx?tab=1&TFDBy=0&Word={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+<link rel="search" type="application/opensearchdescription+xml" title="The Free Dictionary" href="http://www.thefreedictionary.com/_/open-search.xml">
+<meta name="msApplication-ID" content="Farlex.581429F59E1D8">
+<meta name="msApplication-PackageFamilyName" content="Farlex.581429F59E1D8_wyegy4e46y996">
+<meta name="apple-itunes-app" content="app-id=379450383, app-argument=thefreedictionary://search/apple?" />
+<link rel="alternate" type="application/rss+xml" title="Word of the Day" href="http://www.thefreedictionary.com/_/WoD/rss.aspx">
+</head>
+<body lang="en">
+<div class="print-only">
+<strong style="font-size:23px">Apple - definition of apple by The Free Dictionary</strong> <div style="text-align:right">https://www.thefreedictionary.com/apple</div>
+<a href="/_/hp/Controls/printer-friendly.aspx?349" style="display:none" rel="nofollow">Printer Friendly</a>
+<hr>
+</div>
+<div class="wrapper">
+	<div id="w1" class="w1">
+<div class="w2">
+		<header id="header">
+			<div class="header-top">
+				<div class="logo-holder">
+					<strong class="i logo">
+<a href="https://www.thefreedictionary.com">Dictionary, Encyclopedia and Thesaurus - The Free Dictionary</a>
+</strong>
+					<span class="note">
+<span id=ps>13,175,619,071</span> visits served</span>
+				</div>
+				<div class="open-close">
+					<a class="opener" onclick="showPopup(event,'w1','menu-active', 'w1Slider')">
+<span class="i icon-search">Search / </span>
+<span class="icon-hamburger">
+<span>Page tools</span>
+</span>
+</a>
+					<div id="w1Slider" class="slide">
+						<form class="search-form" method="get" action="//www.thefreedictionary.com/_/search.aspx">
+<input name="tab" type="hidden" value="1" onsubmit="alert('Page is not yet loaded, please wait');return false">
+							<fieldset>
+								<div class="row" id="f1_SearchBy" style='visibility:hidden'>
+									<ul class="radio-list">
+										<li>
+<input type="radio" name="SearchBy" id="f1_tfd" value=0 onclick="ById('f1_TFDBy').style.visibility='';lib.hide('lstScr');lib.show('lstTFD')" checked>
+<label for="f1_tfd">TheFreeDictionary</label>
+</li>
+										
+										<li class="mobile-hidden" style='visibility:hidden'>
+<input type="radio" name="SearchBy" id="f1_google" value=4 onclick="ById('f1_TFDBy').style.visibility='hidden'">
+<label for="f1_google">Google</label>
+</li>
+									</ul>
+									<a title="Help" href="//www.thefreedictionary.com/_/help/help1.htm" class="mobile-hidden link">?</a>
+								</div>
+								<div class="row">
+									<input type="search" autocomplete="off" placeholder="Search..." value="apple" onclick="SAYT.Suggest(this,event)" onkeyup="saveCaret(this);SAYT.Suggest(this,event)" onmouseup="saveCaret(this)" onfocus="this.select()" id="f1Word" name="Word">
+									<a onclick="ToggleKeyboard()" class="i keyboard-link mobile-hidden">Keyboard</a>
+									<input type="submit" value="Search">
+								</div>
+								<div id=keyboard style="position:absolute;display:none">
+</div>
+								<div class="row" id="f1_TFDBy">
+									<ul class="radio-list" id="lstTFD" >
+										<li>
+<input type="radio" name="TFDBy" id="f1_tfd_word" value=0 checked>
+<label for="f1_tfd_word">Word / Article</label>
+</li>
+										<li>
+<input type="radio" name="TFDBy" id="f1_tfd_start" value=1>
+<label for="f1_tfd_start">Starts with</label>
+</li>
+										<li>
+<input type="radio" name="TFDBy" id="f1_tfd_end" value=2>
+<label for="f1_tfd_end">Ends with</label>
+</li>
+										<li>
+<input type="radio" name="TFDBy" id="f1_tfd_text" value=3>
+<label for="f1_tfd_text">Text</label>
+</li>
+									</ul>
+									
+								</div>
+							</fieldset>
+						</form>
+						<div class="slide-block mobile-visible">
+							<ul class="text-size">
+								<li class="size03">
+<a onclick="ChangeTextSize(11)">A</a>
+</li>
+								<li class="size02">
+<a onclick="ChangeTextSize(13)">A</a>
+</li>
+								<li class="size01">
+<a onclick="ChangeTextSize(15)">A</a>
+</li>
+								<li>
+<a onclick="ChangeTextSize(17)">A</a>
+</li>
+							</ul>
+							<div class="language-block">
+								<span class="title">Language:</span>
+								<div class="select-holder">
+									<select onchange="document.location='//'+this.options[this.selectedIndex].value+'.'+info.Domain">
+									<option value="www" selected>English</option>
+<option value="es">Español</option>
+<option value="de">Deutsch</option>
+<option value="fr">Français</option>
+<option value="it">Italiano</option>
+<option value="ar">العربية</option>
+<option value="zh">中文简体</option>
+<option value="pl">Polski</option>
+<option value="pt">Português</option>
+<option value="nl">Nederlands</option>
+<option value="no">Norsk</option>
+<option value="el">Ελληνική</option>
+<option value="ru">Русский</option>
+<option value="tr">Türkçe</option>
+<option value="he">אנגלית</option>
+									</select>
+								</div>
+							</div>
+						</div>
+						<div class="share-block mobile-visible">
+							<span class="fb-share" style="float:left">
+<a class=i onclick="social.facebook(1)">Share on Facebook</a>
+</span>
+							<span class="twitter">
+<a class=i onclick="social.twitter(1)">Twitter</a>
+</span>
+						</div>
+						<div class="slide-box mobile-visible">
+							<a href="http://up.thefreedictionary.com/trc.ashx?sender=farlex&info=download" class="download-link">Get our app</a>
+						</div>
+						<div id="accopy" class="mobile-visible">
+</div>
+						
+						<section class="widget mobile-visible" id="secFlashcardsMob" style="display:none">
+							<div class="heading-block">
+								<strong class="title">Flashcards</strong>
+								<a href="//www.thefreedictionary.com/_/help/help2.htm#flashcards" class="link">?</a>
+							</div>
+							<div class="holder">
+								<div id="flashcardContMob">
+</div>
+							</div>
+						</section>
+						<section id="secBookmarksMob" class="widget mobile-visible" style="display:none">
+							<div class="heading-block">
+								<strong class="title">My bookmarks</strong>
+								<a href="//www.thefreedictionary.com/_/help/help2.htm#22115" class="link">?</a>
+							</div>
+							<div class="holder" id="wordlist-content">
+								<a style="display:none" id="wlAddMob" onclick="fc.bookmarks.add(this)">
+<span class="plus">+&nbsp;</span>Add current page to bookmarks</a>
+								<div id="wordListMob">
+</div>
+							</div>
+						</section>
+						<script>if(info.isLogin){ById('secFlashcardsMob').style.display='';waiting('flashcardContMob');ById('secBookmarksMob').style.display='';waiting('wordListMob')}</script>
+						
+					</div>
+				</div>
+				<div id="headerBlock">
+					<a class="i icon-notif" href="/_/archive.htm">9</a>
+					<div id="loginBlock">
+						<a href="https://secure.thefreedictionary.com/Registration.aspx?returnTo=https%3a%2f%2fwww.thefreedictionary.com%2fapple" id="regButton" class="reg-button">Register</a>
+						<a href="https://secure.thefreedictionary.com/Login.aspx?returnTo=https%3a%2f%2fwww.thefreedictionary.com%2fapple" class="login-button">Log in</a>
+						<div class="social-login" style="margin-top:5px">
+						<span class="soc-log-msg">Sign up with one click:</span>
+<ul class="social-networks">
+<li class="facebook">
+<a href="https://secure.thefreedictionary.com/ExtLogin/FacebookLogin.aspx?returnTo=https%3a%2f%2fwww.thefreedictionary.com%2fapple" rel="nofollow">Facebook</a>
+</li>
+<li class="twitter">
+<a href="https://secure.thefreedictionary.com/Login.aspx?twitter&returnTo=https%3a%2f%2fwww.thefreedictionary.com%2fapple" rel="nofollow">Twitter</a>
+</li>
+<li class="googleplus">
+<a href="https://secure.thefreedictionary.com/ExtLogin/GoogleSignIn.ashx?returnTo=https%3a%2f%2fwww.thefreedictionary.com%2fapple">Google</a>
+</li>
+</ul>
+						</div>
+					</div>
+					<script>window.loginBlockHtml=ById('loginBlock').innerHTML;if(info.isLogin){waiting('loginBlock');ById('header').className='auth'}</script>
+
+					<div class="share-block mobile-hidden">
+						<span class="fb-share">
+<a class=i onclick="social.facebook(1)">Share on Facebook</a>
+</span>
+					</div>
+				</div>
+				<a href="http://up.thefreedictionary.com/trc.ashx?sender=farlex&amp;info=download" style="z-index:100" class="download-link mobile-visible">Get<br>our app</a>				
+			</div>
+			<div class="header-bottom">
+				
+				<nav id="nav">
+					<ul>
+						<li class="active available">
+<div>
+<span class=cell>Dictionary</span>
+</div>
+</li>
+<li class=available>
+<a title="apple in Thesaurus" href="//www.freethesaurus.com/apple">
+<span class=cell>Thesaurus</span>
+</a>
+</li>
+<li class=available>
+<a title="apple in medical dictionary" href="//medical-dictionary.thefreedictionary.com/apple">
+<span class=cell>Medical<br>Dictionary</span>
+</a>
+</li>
+<li>
+<div>
+<span class=cell>Legal<br>Dictionary</span>
+</div>
+</li>
+<li>
+<div>
+<span class=cell>Financial<br>Dictionary</span>
+</div>
+</li>
+<li class=available>
+<a title="apple in Acronyms" href="//acronyms.thefreedictionary.com/apple">
+<span class=cell>Acronyms</span>
+</a>
+</li>
+<li class=available>
+<a title="apple in Idioms" href="//idioms.thefreedictionary.com/apple">
+<span class=cell>Idioms</span>
+</a>
+</li>
+<li class=available>
+<a title="apple in encyclopedia" href="//encyclopedia2.thefreedictionary.com/apple">
+<span class=cell>Encyclopedia</span>
+</a>
+</li>
+<li class=available>
+<a title="apple in Wikipedia" href="//encyclopedia.thefreedictionary.com/apple">
+<span class=cell>Wikipedia<br>Encyclopedia</span>
+</a>
+</li>
+					</ul>
+				</nav>
+				<div id="popupBox" class="popup-box">
+					<a class="i popup-opener" onclick="showPopup(event,'popupBox','open-close-active')">Tools</a>
+					<div class="popup-slide">
+						<div class="popup-holder">
+							<ul class="text-size">
+								<li class="size03">
+<a onclick="ChangeTextSize(11)">A</a>
+</li>
+								<li class="size02">
+<a onclick="ChangeTextSize(13)">A</a>
+</li>
+								<li class="size01">
+<a onclick="ChangeTextSize(15)">A</a>
+</li>
+								<li>
+<a onclick="ChangeTextSize(17)">A</a>
+</li>
+							</ul>
+							<div class="language-block">
+								<span class="title">Language:</span>
+								<div class="select-holder">
+									<select onchange="document.location='//'+this.options[this.selectedIndex].value+'.'+info.Domain">
+										<option value="www" selected>English</option>
+<option value="es">Español</option>
+<option value="de">Deutsch</option>
+<option value="fr">Français</option>
+<option value="it">Italiano</option>
+<option value="ar">العربية</option>
+<option value="zh">中文简体</option>
+<option value="pl">Polski</option>
+<option value="pt">Português</option>
+<option value="nl">Nederlands</option>
+<option value="no">Norsk</option>
+<option value="el">Ελληνική</option>
+<option value="ru">Русский</option>
+<option value="tr">Türkçe</option>
+<option value="he">אנגלית</option>
+									</select>
+								</div>
+							</div>
+							<div class="popup-block">
+								<strong class="title">Mobile Apps:</strong>
+								<ul class="logos-list">
+									<li class="apple">
+<a title="iPhone/iPad app" class=i href="http://up.thefreedictionary.com/trc.ashx?target=iOSFREE&sender=farlex&info=download">apple</a>
+</li>
+									<li class="android">
+<a title="Android app" class=i href="http://up.thefreedictionary.com/trc.ashx?target=android-web-googleplay-free&sender=farlex&info=download">android</a>
+</li>
+								</ul>
+							</div>
+							<div class="popup-block">
+								<strong class="title">For surfers:</strong>
+								<ul class="links-list">
+									<li>
+<a href="//www.thefreedictionary.com/download.htm">Free toolbar & extensions</a>
+</li>
+									<li>
+<a href="//www.thefreedictionary.com/Word-of-the-Day.htm">Word of the Day</a>
+</li>
+									<script>document.write(bm)</script>
+									<li>
+<a href="//www.thefreedictionary.com/help.htm">Help</a>
+</li>
+								</ul>
+							</div>
+							<div class="popup-block">
+								<strong class="title">For webmasters:</strong>
+								<ul class="links-list">
+									<li>
+<a href="https://www.thefreedictionary.com/lookup.htm#sitecontent">Free content</a>
+</li>
+									<li>
+<a href="https://www.thefreedictionary.com/lookup.htm#link">Linking</a>
+</li>
+									<li>
+<a href="https://www.thefreedictionary.com/lookup.htm#searchbox">Lookup box</a>
+</li>
+								</ul>
+							</div>
+							<a id="popupBoxClose" class="popup-opener style01" onclick="showPopup(event,'popupBox','open-close-active')">Close</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+		<main id="main" role="main">
+
+<div class="main-holder">
+	<div id="content" class="ee">
+		<div class="content-holder">
+			<div class="ee" id="ee1">
+</div>
+			<h1>apple</h1>
+<span class="snd2" data-snd="en/US/df/dfdjsjshsldohr">
+</span>
+<span class=snd2 data-snd="en/UK/df/dfdjsjshsldohr">
+</span> <br>Also found in: <a href="//www.freethesaurus.com/apple">Thesaurus</a>, <a href="//medical-dictionary.thefreedictionary.com/apple">Medical</a>, <a href="//acronyms.thefreedictionary.com/apple">Acronyms</a>, <a href="//idioms.thefreedictionary.com/apple">Idioms</a>, <a href="//encyclopedia2.thefreedictionary.com/apple">Encyclopedia</a>, <a href="//encyclopedia.thefreedictionary.com/apple">Wikipedia</a>.<div id="relToLnks">Related to apple: <a href="//www.thefreedictionary.com/iTunes">ITunes</a>, <a href="//idioms.thefreedictionary.com/best+buy">Best Buy</a>, <a href="//encyclopedia2.thefreedictionary.com/iCloud">iCloud</a>, <a href="//encyclopedia2.thefreedictionary.com/Apple+store">Apple store</a>, <a href="//encyclopedia2.thefreedictionary.com/Apple+TV">Apple TV</a>
+</div>
+		<div id="MainTxt">
+			
+
+			<div id="Definition">
+<section data-src="hm">
+<h2>ap·ple</h2> <span class="snd" data-snd="A0378800">
+</span> <span class="pron" onclick="pron_key()">(&#x103;p&#x2032;&#x259;l)</span>
+<div class="pseg">
+<i>n.</i>
+<div class="ds-list">
+<b>1. </b>
+<div class="sds-list">
+<b>a. </b> A cultivated deciduous tree (<i>Malus domestica</i> or <i>M. pumila</i>) in the rose family, native to Eurasia and having alternate simple leaves and white or pink flowers.</div>
+<div class="sds-list">
+<b>b. </b> The firm, edible, usually rounded fruit of this tree.</div>
+</div>
+<div class="ds-list">
+<b>2. </b>
+<div class="sds-list">
+<b>a. </b> Any of several other plants, especially those with fruits suggestive of the apple, such as the crabapple or custard apple.</div>
+<div class="sds-list">
+<b>b. </b> The fruit of any of these plants.</div>
+</div>
+</div>
+<b>
+<i>Idiom: </i>
+</b>
+<div class="idmseg"> <b>
+<i>apple of (one's) eye</i>
+</b>
+<div class="ds-single"> One that is treasured: <span class="illustration">Her grandson is the apple of her eye.</span>
+</div>
+</div>
+<hr align="left" class="hmshort">
+<div class="etyseg">[Middle English <span class="tt">appel</span>, from Old English <span class="tt">æppel</span>.]</div>
+<div class="cprh">
+<span class="i A cpr">
+</span>American Heritage® Dictionary of the English Language, Fifth Edition. Copyright © 2016 by Houghton Mifflin Harcourt Publishing Company. Published by Houghton Mifflin Harcourt Publishing Company. All rights reserved.</div>
+</section>
+<section data-src="hc_dict">
+<h2>apple</h2> (<span onclick="pron_key(1)" class="pron">ˈæpəl</span>) <div>
+<i>n</i>
+<div class="ds-list">
+<b>1. </b> (Plants) a rosaceous tree, <i>Malus sieversii</i>, native to Central Asia but widely cultivated in temperate regions in many varieties, having pink or white fragrant flowers and firm rounded edible fruits. See also <a href="crab+apple">crab apple</a>
+</div>
+<div class="ds-list">
+<b>2. </b> (Plants) the fruit of this tree, having red, yellow, or green skin and crisp whitish flesh</div>
+<div class="ds-list">
+<b>3. </b> (Forestry) the wood of this tree</div>
+<div class="ds-list">
+<b>4. </b> (Plants) any of several unrelated trees that have fruits similar to the apple, such as the custard apple, sugar apple, and May apple. See also <a href="love+apple">love apple</a>, <a href="oak+apple">oak apple</a>, <a href="thorn+apple">thorn apple</a>
+</div>
+<div class="ds-list">
+<b>5. </b>
+<b>apple of one's eye </b>a person or thing that is very precious or much loved</div>
+<div class="ds-list">
+<b>6. </b>
+<b>bad apple </b>
+<b>rotten apple </b>a person with a corrupting influence</div>
+</div>
+<div class="etyseg">[Old English <i>æppel;</i> related to Old Saxon <i>appel,</i> Old Norse <i>apall,</i> Old High German <i>apful</i>]</div>
+<div class="cprh">
+<span class="i A cpr">
+</span>Collins English Dictionary – Complete and Unabridged, 12th Edition 2014 © HarperCollins Publishers 1991, 1994, 1998, 2000, 2003, 2006, 2007, 2009, 2011, 2014</div>
+</section>
+<section data-src="rHouse">
+<h2>ap&#8226;ple</h2> <span onclick="pron_key(1)" class="pron"> (&#712;æp &#601;l) </span> <br> <br> <i>n. </i> <div class="ds-list"> <b> 1. </b> the usu. round red or yellow edible fruit of a small tree, <i>Malus sylvestris,</i> of the rose family. </div> <div class="ds-list"> <b> 2. </b> the tree, cultivated in most temperate regions. </div> <div class="ds-list"> <b> 3. </b> the fruit of any of other species of tree of the same genus. </div> <div class="ds-list"> <b> 4. </b> any of various other similar fruits or plants, as the custard apple. </div> <b>
+<i>Idioms: </i>
+</b> <div class="ds-single"> <b>apple of one's eye,</b> someone or something very precious or dear to one; a favorite. </div> <div class="etyseg">[before 900; Middle English; Old English <i>æppel,</i> c. Old Frisian <i>appel,</i> Old Saxon <i>apl, appul,</i> Old High German <i>apful,</i> Crimean Gothic <i>apel</i>]</div> <div class="cprh">
+<span class="i A cpr">
+</span>Random House Kernerman Webster's College Dictionary, © 2010 K Dictionaries Ltd. Copyright 2005, 1997, 1991 by Random House, Inc. All rights reserved.</div>
+</section>
+</div>
+<div id="Thesaurus">
+<div id="ThesaurusHead">
+<span id="ThesaurusTitle">Thesaurus</span>
+<span id="ThesaurusLegend">
+<span class="Ant">Antonyms</span>
+<span class="Rel">Related Words</span>
+<span class="Syn">Synonyms</span>
+<span class="label">
+<b>Legend:</b>
+</span>
+</span>
+</div>
+<div id="ThesaurusInner">
+<div style="padding:5px;background:#DADAF7;font-size:16px;line-height:25px">
+<span>Switch to <a href="//www.freethesaurus.com/apple"> new thesaurus </a>
+</span>
+</div>
+<section data-src="wn">
+<table id="wn">
+<tr>
+<td style="vertical-align:top">
+<b>Noun</b>
+</td>
+<td style="vertical-align:top">
+<b>1.</b>
+</td>
+<td>
+<img align="right" src="//img.tfd.com/wn/F5/66BF7-apple.jpg" width="126" height="120" alt="apple - fruit with red or yellow or green skin and sweet to tart crisp whitish flesh" title="apple - fruit with red or yellow or green skin and sweet to tart crisp whitish flesh">
+<b>apple</b> - fruit with red or yellow or green skin and sweet to tart crisp whitish flesh<div class="Rel">
+<a href="edible+fruit">edible fruit</a> - edible reproductive body of a seed plant especially one having sweet flesh</div>
+<div class="Rel">
+<a href="crab+apple">crab apple</a>, <a href="crabapple">crabapple</a> - small sour apple; suitable for preserving; "crabapples make a tangy jelly"</div>
+<div class="Rel">
+<a href="dessert+apple">dessert apple</a>, <a href="eating+apple">eating apple</a> - an apple used primarily for eating raw without cooking</div>
+<div class="Rel">
+<a href="cooking+apple">cooking apple</a> - an apple used primarily in cooking for pies and applesauce etc</div>
+<div class="Rel">
+<a href="Malus+pumila">Malus pumila</a>, <a href="orchard+apple+tree">orchard apple tree</a>, <a href="apple">apple</a> - native Eurasian tree widely cultivated in many varieties for its firm rounded edible fruits</div>
+<div class="Rel">
+<a href="false+fruit">false fruit</a>, <a href="pome">pome</a> - a fleshy fruit (apple or pear or related fruits) having seed chambers and an outer fleshy part</div>
+</td>
+</tr>
+<tr>
+<td style="vertical-align:top">
+</td>
+<td style="vertical-align:top">
+<b>2.</b>
+</td>
+<td>
+<img align="right" src="//img.tfd.com/wn/8A/6B6A8-apple.jpg" width="126" height="83" alt="apple - native Eurasian tree widely cultivated in many varieties for its firm rounded edible fruits" title="apple - native Eurasian tree widely cultivated in many varieties for its firm rounded edible fruits">
+<b>apple</b> - native Eurasian tree widely cultivated in many varieties for its firm rounded edible fruits<div class="Syn">
+<a href="Malus+pumila">Malus pumila</a>, <a href="orchard+apple+tree">orchard apple tree</a>
+</div>
+<div class="Rel">
+<a href="apple">apple</a> - fruit with red or yellow or green skin and sweet to tart crisp whitish flesh</div>
+<div class="Rel">
+<a href="genus+Malus">genus Malus</a>, <a href="Malus">Malus</a> - apple trees; found throughout temperate zones of the northern hemisphere</div>
+<div class="Rel">
+<a href="apple+tree">apple tree</a> - any tree of the genus Malus especially those bearing firm rounded edible fruits</div>
+</td>
+</tr>
+</table>
+<div class="cprh">
+<span class="i A cpr">
+</span>Based on WordNet 3.0, Farlex clipart collection. © 2003-2012 Princeton University, Farlex Inc.</div>
+</section>
+<section data-src="hc_thes">
+<h2>apple</h2> <i>noun</i>
+<div>
+<b>the apple of your eye</b> <span class="Syn">
+<a href="favourite">favourite</a>, <a href="pick">pick</a>, <a href="choice">choice</a>, <a href="dear">dear</a>, <a href="pet">pet</a>, <a href="darling">darling</a>, <a href="beloved">beloved</a>, <a href="idol">idol</a>, <a href="fave">fave</a> <i>(informal)</i>, <a href="blue-eyed+boy">blue-eyed boy</a> <i>(informal)</i>
+</span> <span class="illustration">Her only son was the apple of her eye.</span>
+<h4>Apples</h4> biffin (<i>Brit.</i>), Blenheim Orange, Braeburn, bramley, Charles Ross, codlin <i>or</i> codling, costard, Cox's orange pippin, crab apple, Discovery, Egremont Russet, Elstar, Empire, Fuji, Golden Delicious, Granny Smith, Greensleeves, Grenadier, Idared, James Grieve, Jonathon, Jonagold, Laxton Superb, Lobo, Lord Lambourne, Pink Lady, pippin, Prince Albert, Red Delicious, Red Ellison, Rosemary Russet, Royal Gala, russet, Spartan, sturmer, sunset, sweeting, Worcester Pearmain</div>
+<div class="cprh">
+<span class="i A cpr">
+</span>Collins Thesaurus of the English Language – Complete and Unabridged 2nd Edition. 2002 © HarperCollins Publishers 1995, 2002</div>
+</section>
+</div>
+</div>
+<div id="Translations">
+<div id="TranslationsHead">
+<span id="TranslationsTitle">Translations</span>
+</div>
+<div id="translbody" data-lang="arbgcacsdadeeleoesetfifrhrhuisitjakolaltlvnlnoplptroruskslsvthtrukvizhaffahehiidmlpssrtwur">
+<section class="simpleTrans">
+<div lang="ar">
+<a class="trans" href="//ar.thefreedictionary.com/%d8%aa%d9%8e%d9%81%d9%91%d9%8e%d8%a7%d8%ad%d9%8e%d8%a9">تَفَّاحَة</a>
+<b class="trans">تُفّاحَة</b>
+</div>
+<div lang="bg">
+<b class="trans">ябълка</b>
+</div>
+<div lang="ca">
+<b class="trans">poma</b>
+</div>
+<div lang="cs">
+<b class="trans">jablko</b>
+</div>
+<div lang="da">
+<b class="trans">æble</b>
+</div>
+<div lang="de">
+<a class="trans" href="//de.thefreedictionary.com/Apfel">Apfel</a>
+<a class="trans" href="//de.thefreedictionary.com/Apfelbaum">Apfelbaum</a>
+<b class="trans">Apple</b>
+</div>
+<div lang="el">
+<a class="trans" href="//el.thefreedictionary.com/%ce%bc%ce%ae%ce%bb%ce%bf">μήλο</a>
+</div>
+<div lang="eo">
+<b class="trans">pomo</b>
+</div>
+<div lang="es">
+<a class="trans" href="//es.thefreedictionary.com/manzana">manzana</a>
+</div>
+<div lang="et">
+<b class="trans">õun</b>
+</div>
+<div lang="fi">
+<b class="trans">omena</b>
+<b class="trans">omenapuu</b>
+</div>
+<div lang="fr">
+<a class="trans" href="//fr.thefreedictionary.com/pomme">pomme</a>
+<a class="trans" href="//fr.thefreedictionary.com/pommier">pommier</a>
+</div>
+<div lang="hr">
+<b class="trans">jabuka</b>
+<b class="trans">jabukovina</b>
+</div>
+<div lang="hu">
+<b class="trans">alma</b>
+</div>
+<div lang="is">
+<b class="trans">epli</b>
+</div>
+<div lang="it">
+<a class="trans" href="//it.thefreedictionary.com/mela">mela</a>
+<a class="trans" href="//it.thefreedictionary.com/melo">melo</a>
+</div>
+<div lang="ja">
+<b class="trans">りんご</b>
+<b class="trans">林檎</b>
+</div>
+<div lang="ko">
+<b class="trans">사과</b>
+</div>
+<div lang="la">
+<b class="trans">malum</b>
+</div>
+<div lang="lt">
+<b class="trans">obuolys</b>
+<b class="trans">sugriauti planus</b>
+<b class="trans">viską sugadinti</b>
+<b class="trans">kieno didžiausias numylėtinis</b>
+<b class="trans">kieno didžiausias turtas</b>
+</div>
+<div lang="lv">
+<b class="trans">ābols</b>
+</div>
+<div lang="nl">
+<a class="trans" href="//nl.thefreedictionary.com/appel">appel</a>
+</div>
+<div lang="no">
+<a class="trans" href="//no.thefreedictionary.com/eple">eple</a>
+</div>
+<div lang="pl">
+<a class="trans" href="//pl.thefreedictionary.com/jab%c5%82ko">jabłko</a>
+</div>
+<div lang="pt">
+<a class="trans" href="//pt.thefreedictionary.com/Ma%c3%a7%c3%a3">maçã</a>
+</div>
+<div lang="ro">
+<b class="trans">măr</b>
+</div>
+<div lang="ru">
+<a class="trans" href="//ru.thefreedictionary.com/%d1%8f%d0%b1%d0%bb%d0%be%d0%ba%d0%be">яблоко</a>
+<a class="trans" href="//ru.thefreedictionary.com/%d1%8f%d0%b1%d0%bb%d0%be%d0%bd%d1%8f">яблоня</a>
+<a class="trans" href="//ru.thefreedictionary.com/%d1%8f%d0%b1%d0%bb%d0%be%d1%87%d0%bd%d1%8b%d0%b9">яблочный</a>
+</div>
+<div lang="sk">
+<b class="trans">jablko</b>
+</div>
+<div lang="sl">
+<b class="trans">jabolko</b>
+</div>
+<div lang="sv">
+<b class="trans">äpple</b>
+</div>
+<div lang="th">
+<b class="trans">แอปเปิ้ล</b>
+</div>
+<div lang="tr">
+<a class="trans" href="//tr.thefreedictionary.com/elma">elma</a>
+</div>
+<div lang="uk">
+<b class="trans">яблуко</b>
+</div>
+<div lang="vi">
+<b class="trans">quả táo</b>
+</div>
+<div lang="zh">
+<a class="trans" href="//zh.thefreedictionary.com/%e8%8b%b9%e6%9e%9c">苹果</a>
+</div>
+</section>
+<section lang="es" data-src="hc_En_Es">
+<div lang="En">
+<h2>apple</h2> <span class="pron0x">[&#x2c8;&#xe6;pl]</span>
+<div class="ds-list">
+<b>A.</b> <i>N</i> (= <i>fruit</i>) &#x2192; <span lang="es">
+<a href="//es.thefreedictionary.com/manzana">manzana</a> <i>f</i>
+</span>; (= <i>tree</i>) &#x2192; <span lang="es">
+<a href="//es.thefreedictionary.com/manzano">manzano</a> <i>m</i>
+</span>
+<br>
+<span class="illustration">apple of discord</span> &#x2192; <span lang="es">
+<a href="//es.thefreedictionary.com/manzana">manzana</a> <i>f</i> <a href="//es.thefreedictionary.com/de+la">de la</a> <a href="//es.thefreedictionary.com/discordia">discordia</a>
+</span>
+<br>
+<b>apples and pears</b> (<i>Brit</i>) (= <i>stairs</i>) &#x2192; <span lang="es">
+<a href="//es.thefreedictionary.com/escalera">escalera</a> <i>f</i>
+</span>
+<br>
+<b>the Big Apple</b> (<i>US</i>) &#x2192; <span lang="es">la <a href="//es.thefreedictionary.com/gran">Gran</a> <a href="//es.thefreedictionary.com/manzana">Manzana</a>, <a href="//es.thefreedictionary.com/Nueva+York">Nueva York</a> <i>f</i>
+</span> <i>CITY NICKNAMES</i> <b>the apple of one's eye</b> &#x2192; <span lang="es">
+<a href="//es.thefreedictionary.com/La+Ni%c3%b1a">la niña</a> <a href="//es.thefreedictionary.com/de+los">de los</a> <a href="//es.thefreedictionary.com/ojos">ojos</a> de algn</span>
+<br>
+<b>one bad <i>or</i> rotten apple can spoil the whole barrel</b> &#x2192; <span lang="es">
+<a href="//es.thefreedictionary.com/manzana">manzana</a> <a href="//es.thefreedictionary.com/podrida">podrida</a> <a href="//es.thefreedictionary.com/echar">echa</a> ciento a <a href="//es.thefreedictionary.com/perder">perder</a>
+</span>
+</div>
+<div class="ds-list">
+<b>B.</b> <i>CPD</i> <b>apple blossom</b> <i>N</i> &#x2192; <span lang="es">
+<a href="//es.thefreedictionary.com/flor">flor</a> <i>f</i> <a href="//es.thefreedictionary.com/del">del</a> <a href="//es.thefreedictionary.com/manzano">manzano</a>
+</span>
+<br>
+<b>apple brandy</b> <i>N</i> &#x2192; <span lang="es">
+<a href="//es.thefreedictionary.com/licor">licor</a> <i>m</i> de <a href="//es.thefreedictionary.com/manzana">manzana</a>
+</span>
+<br>
+<b>apple core</b> <i>N</i> &#x2192; <span lang="es">
+<a href="//es.thefreedictionary.com/coraz%c3%b3n">corazón</a> <i>m</i> de <a href="//es.thefreedictionary.com/manzana">manzana</a>
+</span>
+<br>
+<b>apple dumpling</b> <i>N</i> <span lang="es" class="illustration">postre a base de manzana asada y masa</span>
+<br>
+<b>apple fritter</b> <i>N</i> &#x2192; <span lang="es">
+<a href="//es.thefreedictionary.com/manzana">manzana</a> <i>f</i> <a href="//es.thefreedictionary.com/rebozar">rebozada</a>
+</span>
+<br>
+<b>apple orchard</b> <i>N</i> &#x2192; <span lang="es">
+<a href="//es.thefreedictionary.com/manzanar">manzanar</a> <i>m</i>, <a href="//es.thefreedictionary.com/manzanal">manzanal</a> <i>m</i>
+</span>
+<br>
+<b>apple pie</b> <i>N</i> &#x2192; <span lang="es">
+<a href="//es.thefreedictionary.com/pastel">pastel</a> <i>m</i> de <a href="//es.thefreedictionary.com/manzana">manzana</a>, <a href="//es.thefreedictionary.com/pay">pay</a> <i>m</i> de <a href="//es.thefreedictionary.com/manzana">manzana</a> (<span style="font-variant:small-caps; font-style:italic">LAm</span>)</span>
+<br>
+<i>see also</i> <b>
+<a href="apple-pie">apple-pie</a>
+</b> <b>apple sauce</b> <i>N</i> (<i>Culin</i>) &#x2192; <span lang="es">
+<a href="//es.thefreedictionary.com/compota">compota</a> <i>f</i> de <a href="//es.thefreedictionary.com/manzana">manzana</a>
+</span> (<i>US</i>) (= <i>hokum</i>) &#x2192; <span lang="es">
+<a href="//es.thefreedictionary.com/tonter%c3%adas">tonterías</a> <i>fpl</i>
+</span>
+<br>
+<b>apple tart</b> <i>N</i> &#x2192; <span lang="es">
+<a href="//es.thefreedictionary.com/tarta">tarta</a> <i>f</i> de <a href="//es.thefreedictionary.com/manzana">manzana</a>
+</span>
+<br>
+<b>apple tree</b> <i>N</i> &#x2192; <span lang="es">
+<a href="//es.thefreedictionary.com/manzano">manzano</a> <i>m</i>
+</span>
+</div>
+</div>
+<div class="cprh">
+<span class="i A cpr">
+</span>Collins Spanish Dictionary - Complete and Unabridged 8th Edition 2005 © William Collins Sons & Co. Ltd. 1971, 1988 © HarperCollins Publishers 1992, 1993, 1996, 1997, 2000, 2003, 2005</div>
+</section>
+<section lang="fr" data-src="hc_En_Fr">
+<div lang="En">
+<h2>apple</h2> <span class="pron0x">[&#x2c8;&#xe6;p<sup>&#x259;</sup>l]</span> <i>n</i>
+<div class="runseg"> (= <i>fruit</i>) &#x2192; <span lang="fr">
+<a href="//fr.thefreedictionary.com/pomme">pomme</a> <i>f</i>
+</span>
+<br>he's the apple of her eye &#x2192; <span lang="fr">Elle <a href="//fr.thefreedictionary.com/tenir">tient</a> <a href="//fr.thefreedictionary.com/%c3%a0+lui">à lui</a> comme à <a href="//fr.thefreedictionary.com/la+prunelle+de+ses+yeux">la prunelle de ses yeux</a>
+</span>
+</div>
+<div class="runseg"> (<i>also</i> <b>apple tree</b>) &#x2192; <span lang="fr">
+<a href="//fr.thefreedictionary.com/pommier">pommier</a> <i>m</i>
+</span>
+</div>
+</div>
+<div class="cprh">
+<span class="i A cpr">
+</span>Collins English/French Electronic Resource. © HarperCollins Publishers 2005</div>
+</section>
+<section lang="de" data-src="hc_En_De">
+<div lang="En">
+<h2>apple</h2> <div class="ds-list">
+<i>n</i> &#x2192; <span lang="de">
+<a href="//de.thefreedictionary.com/Apfel">Apfel</a>
+</span> <i>m</i>; <span class="illustration">an <b>apple</b> a day keeps the doctor away</span> (Prov) &#x2192; <span lang="de">
+<a href="//de.thefreedictionary.com/essen">esst</a> <a href="//de.thefreedictionary.com/Obst">Obst</a> und ihr <a href="//de.thefreedictionary.com/bleibt">bleibt</a> <a href="//de.thefreedictionary.com/gesund">gesund</a>
+</span>; <span class="illustration">the <b>apple</b> doesn’t fall far from the tree</span> (Prov) &#x2192; <span lang="de">der <a href="//de.thefreedictionary.com/Apfel">Apfel</a> <a href="//de.thefreedictionary.com/f%c3%a4llt">fällt</a> <a href="//de.thefreedictionary.com/nicht">nicht</a> <a href="//de.thefreedictionary.com/weit">weit</a> <a href="//de.thefreedictionary.com/vom">vom</a> <a href="//de.thefreedictionary.com/Stamm">Stamm</a>
+</span> (Prov); <span class="illustration">to be the <b>apple</b> of somebody’s eye</span> &#x2192; <span lang="de">
+<a href="//de.thefreedictionary.com/bed%c3%bcrfen">jds</a> <a href="//de.thefreedictionary.com/Liebling">Liebling</a> sein</span>
+</div>
+<hr class="hmsep">
+<h2>apple</h2> <i>in cpds</i> &#x2192; <span lang="de">
+<a href="//de.thefreedictionary.com/Apfel-">Apfel-</a>
+</span>; <div>
+<b>apple brandy</b> <div class="ds-list">
+<i>n</i> &#x2192; <span lang="de">
+<a href="//de.thefreedictionary.com/Apfelschnaps">Apfelschnaps</a>
+</span> <i>m</i>
+</div>
+</div> <div>
+<b>apple butter</b> <div class="ds-list">
+<i>n</i> (US) &#x2192; <span lang="de">Apfelkonfitüre</span> <i>f</i>
+</div>
+</div> <div>
+<b>applecart</b> <div class="ds-list">
+<i>n (fig)</i> <span class="illustration">to upset the <b>apple</b>
+</span> &#x2192; <span lang="de">alles über den <a href="//de.thefreedictionary.com/haufen">Haufen</a> <a href="//de.thefreedictionary.com/werfen">werfen</a>
+</span> <i>(inf)</i>
+</div>
+</div> <div>
+<b>apple dumpling</b> <div class="ds-list">
+<i>n</i> &#x2192; <span lang="de">˜ <a href="//de.thefreedictionary.com/Apfel">Apfel</a>
+</span> <i>m</i> &#x2192; <span lang="de">im <a href="//de.thefreedictionary.com/Schlafrock">Schlafrock</a>
+</span>
+</div>
+</div> <div>
+<b>apple fritters</b> <div class="ds-list">
+<i>pl</i> &#x2192; <span lang="de">in <a href="//de.thefreedictionary.com/Teig">Teig</a> ausgebackene Apfelringe</span>
+</div>
+</div> <div>
+<b>apple green</b> <div class="ds-list">
+<i>n</i> &#x2192; <span lang="de">
+<a href="//de.thefreedictionary.com/apfelgr%c3%bcn">Apfelgrün</a>
+</span> <i>nt</i>
+</div>
+</div> <div>
+<b>apple-green</b> <div class="ds-list">
+<i>adj</i> &#x2192; <span lang="de">
+<a href="//de.thefreedictionary.com/apfelgr%c3%bcn">apfelgrün</a>
+</span>
+</div>
+</div> <div>
+<b>applejack</b> <div class="ds-list">
+<i>n</i> (US) &#x2192; <span lang="de">
+<a href="//de.thefreedictionary.com/Apfelschnaps">Apfelschnaps</a>
+</span> <i>m</i>
+</div>
+</div> <div>
+<b>apple juice</b> <div class="ds-list">
+<i>n</i> &#x2192; <span lang="de">
+<a href="//de.thefreedictionary.com/Apfelsaft">Apfelsaft</a>
+</span> <i>m</i>
+</div>
+</div> <div>
+<b>apple pie</b> <div class="ds-list">
+<i>n</i> &#x2192; <span lang="de">˜ <a href="//de.thefreedictionary.com/gedeckter">gedeckter</a> <a href="//de.thefreedictionary.com/Apfelkuchen">Apfelkuchen</a>, Apfelpastete</span> <i>f</i>; <span class="illustration">apple-pie bed</span> <i>Bett, bei dem Laken und Decken aus Scherz so gefaltet sind, dass man sich nicht ausstrecken kann</i>; <span class="illustration">in apple-pie order</span> <i>(inf)</i> &#x2192; <span lang="de">
+<a href="//de.thefreedictionary.com/pikobello">pikobello</a>
+</span> <i>(inf)</i>
+</div>
+</div> <div>
+<b>apple sauce</b> <div class="ds-list">
+<i>n</i> <div class="sds-list">(Cook) &#x2192; <span lang="de">
+<a href="//de.thefreedictionary.com/Apfelmus">Apfelmus</a>
+</span> <i>nt</i>
+</div> <div class="sds-list">(<i>dated</i> US <i>inf</i>: <span class="Syn">= nonsense</span>) &#x2192; <span lang="de">
+<a href="//de.thefreedictionary.com/schmus">Schmus</a>
+</span> <i>m (inf)</i>
+</div>
+</div>
+</div> <div>
+<b>apple tree</b> <div class="ds-list">
+<i>n</i> &#x2192; <span lang="de">
+<a href="//de.thefreedictionary.com/Apfelbaum">Apfelbaum</a>
+</span> <i>m</i>
+</div>
+</div> <div>
+<b>apple turnover</b> <div class="ds-list">
+<i>n</i> &#x2192; <span lang="de">Apfeltasche</span> <i>f</i>
+</div>
+</div>
+</div>
+<div class="cprh">
+<span class="i A cpr">
+</span>Collins German Dictionary – Complete and Unabridged 7th Edition 2005. © William Collins Sons & Co. Ltd. 1980 © HarperCollins Publishers 1991, 1997, 1999, 2004, 2005, 2007</div>
+</section>
+<section lang="it" data-src="hc_En_It">
+<div lang="En">
+<h2>apple</h2> <span class="pron0x">[&#x2c8;&#xe6;pl]</span> <i>n</i> (<i>fruit</i>) &#x2192; <span lang="it">
+<a href="//it.thefreedictionary.com/mela">mela</a>
+</span>
+<br>the apple of one's eye (<i>fam</i>) &#x2192; <span lang="it">la <a href="//it.thefreedictionary.com/pupilla">pupilla</a> dei propri <a href="//it.thefreedictionary.com/occhi">occhi</a>
+</span>
+<br>apple tree &#x2192; <span lang="it">
+<a href="//it.thefreedictionary.com/melo">melo</a>
+</span>
+</div>
+<div class="cprh">
+<span class="i A cpr">
+</span>Collins Italian Dictionary 1st Edition © HarperCollins Publishers 1995</div>
+</section>
+<section data-src="kdict">
+<h2>apple</h2> (<span onclick="pron_key(1)" class="pron">ˈӕpl</span>) <i> noun</i>
+<div class="ds-single"> a round fruit (<i>usually</i> with a green or red skin) which can be eaten. <span class="illustration">an apple tree; </span>
+<span class="illustration">a slice of apple.</span>
+<span class="trans" lang="af" style="display: none;"> appel </span>
+<span class="trans" lang="ar" style="display: none;"> تُفّاحَة </span>
+<span class="trans" lang="bg" style="display: none;"> ябълка </span>
+<span class="trans" lang="br" style="display: none;"> maçã </span>
+<span class="trans" lang="cs" style="display: none;"> jablko </span>
+<span class="trans" lang="de" style="display: none;"> der Apfel </span>
+<span class="trans" lang="da" style="display: none;"> æble; æble- </span>
+<span class="trans" lang="el" style="display: none;">
+<a href="//el.thefreedictionary.com/%ce%bc%ce%ae%ce%bb%ce%bf">μήλο</a>
+</span>
+<span class="trans" lang="es" style="display: none;">
+<a href="//es.thefreedictionary.com/manzana">manzana</a>
+</span>
+<span class="trans" lang="et" style="display: none;"> õun </span>
+<span class="trans" lang="fa" style="display: none;"> سیب </span>
+<span class="trans" lang="fi" style="display: none;"> omena </span>
+<span class="trans" lang="fr" style="display: none;">
+<a href="//fr.thefreedictionary.com/pomme">pomme</a>
+</span>
+<span class="trans" lang="he" style="display: none;"> תָפוּח עֵץ </span>
+<span class="trans" lang="hi" style="display: none;"> सेब </span>
+<span class="trans" lang="hr" style="display: none;"> jabuka </span>
+<span class="trans" lang="hu" style="display: none;"> alma </span>
+<span class="trans" lang="id" style="display: none;"> buah apel </span>
+<span class="trans" lang="is" style="display: none;"> epli </span>
+<span class="trans" lang="it" style="display: none;">
+<a href="//it.thefreedictionary.com/mela">mela</a>
+</span>
+<span class="trans" lang="ja" style="display: none;"> りんご </span>
+<span class="trans" lang="ko" style="display: none;"> 사과 </span>
+<span class="trans" lang="lt" style="display: none;"> obuolys </span>
+<span class="trans" lang="lv" style="display: none;"> ābols </span>
+<span class="trans" lang="ml" style="display: none;"> epal </span>
+<span class="trans" lang="nl" style="display: none;">
+<a href="//nl.thefreedictionary.com/appel">appel</a>
+</span>
+<span class="trans" lang="no" style="display: none;">
+<a href="//no.thefreedictionary.com/eple">eple</a>
+</span>
+<span class="trans" lang="pl" style="display: none;">
+<a href="//pl.thefreedictionary.com/jab%c5%82ko">jabłko</a>
+</span>
+<span class="trans" lang="ps" style="display: none;"> مڼه </span>
+<span class="trans" lang="pt" style="display: none;">
+<a href="//pt.thefreedictionary.com/Ma%c3%a7%c3%a3">maçã</a>
+</span>
+<span class="trans" lang="ro" style="display: none;"> măr </span>
+<span class="trans" lang="ru" style="display: none;">
+<a href="//ru.thefreedictionary.com/%d1%8f%d0%b1%d0%bb%d0%be%d0%ba%d0%be">яблоко</a>
+</span>
+<span class="trans" lang="sk" style="display: none;"> jablko </span>
+<span class="trans" lang="sl" style="display: none;"> jabolko </span>
+<span class="trans" lang="sr" style="display: none;"> jabuka </span>
+<span class="trans" lang="sv" style="display: none;"> äpple </span>
+<span class="trans" lang="th" style="display: none;"> แอปเปิ้ล </span>
+<span class="trans" lang="tr" style="display: none;">
+<a href="//tr.thefreedictionary.com/elma">elma</a>
+</span>
+<span class="trans" lang="tw" style="display: none;"> 蘋果 </span>
+<span class="trans" lang="uk" style="display: none;"> яблуко </span>
+<span class="trans" lang="ur" style="display: none;"> سیب </span>
+<span class="trans" lang="vi" style="display: none;"> quả táo </span>
+<span class="trans" lang="zh" style="display: none;">
+<a href="//zh.thefreedictionary.com/%e8%8b%b9%e6%9e%9c">苹果</a>
+</span>
+</div>
+<div class="cprh">
+<span class="i A cpr">
+</span>Kernerman English Multilingual Dictionary © 2006-2013 K Dictionaries Ltd.</div>
+</section>
+<section data-src="hc_mlt">
+<h2>apple</h2> &#x2192; <span class="trans" lang="ar"> <a href="//ar.thefreedictionary.com/%d8%aa%d9%8e%d9%81%d9%91%d9%8e%d8%a7%d8%ad%d9%8e%d8%a9">تَفَّاحَة</a>
+<span class="snd2" data-snd="ar/AR/jt/jtjrflggfffhj7hgfdhjgh">
+</span>
+</span>
+<span class="trans" lang="cs"> jablko<span class="snd2" data-snd="cs/CS/dn/dndrdhdfslslsfh7">
+</span>
+</span>
+<span class="trans" lang="da"> æble<span class="snd2" data-snd="da/DA/df/df3sdgdndtht">
+</span>
+</span>
+<span class="trans" lang="de"> <a href="//de.thefreedictionary.com/Apfel">Apfel</a>
+<span class="snd2" data-snd="de/DE/d5/d5djsjdtdtskhr">
+</span>
+</span>
+<span class="trans" lang="el"> <a href="//el.thefreedictionary.com/%ce%bc%ce%ae%ce%bb%ce%bf">μήλο</a>
+<span class="snd2" data-snd="el/EL/rn/rnr7rlr35hht">
+</span>
+</span>
+<span class="trans" lang="es"> <a href="//es.thefreedictionary.com/manzana">manzana</a>
+<span class="snd2" data-snd="es/LA/dk/dkd3dhsks3ddsgdyhn">
+</span>
+</span>
+<span class="trans" lang="fi"> omena<span class="snd2" data-snd="fi/FI/dk/dksldndysjddhr">
+</span>
+</span>
+<span class="trans" lang="fr"> <a href="//fr.thefreedictionary.com/pomme">pomme</a>
+<span class="snd2" data-snd="fr/EU/df/dfskskslskdohr">
+</span>
+</span>
+<span class="trans" lang="hr"> jabuka<span class="snd2" data-snd="hr/HR/dk/dkdrdhdfstsldsh7">
+</span>
+</span>
+<span class="trans" lang="it"> <a href="//it.thefreedictionary.com/mela">mela</a>
+<span class="snd2" data-snd="it/IT/dk/dkd3dsdndfht">
+</span>
+</span>
+<span class="trans" lang="ja"> リンゴ<span class="snd2" data-snd="ja/JA/rg/rg3rnfrshs">
+</span>
+</span>
+<span class="trans" lang="ko"> 사과<span class="snd2" data-snd="ko/KO/n5/n5o7n3hf">
+</span>
+</span>
+<span class="trans" lang="nl"> <a href="//nl.thefreedictionary.com/appel">appel</a>
+<span class="snd2" data-snd="nl/NL/d5/d5djsjshdtskhr">
+</span>
+</span>
+<span class="trans" lang="no"> <a href="//no.thefreedictionary.com/eple">eple</a>
+<span class="snd2" data-snd="no/NO/df/dfddsjdndtht">
+</span>
+</span>
+<span class="trans" lang="pl"> <a href="//pl.thefreedictionary.com/jab%c5%82ko">jabłko</a>
+<span class="snd2" data-snd="pl/PL/dn/dndrdhdfgdslsfh7">
+</span>
+</span>
+<span class="trans" lang="pt"> <a href="//pt.thefreedictionary.com/Ma%c3%a7%c3%a3">maçã</a>
+<span class="snd2" data-snd="pt/BR/3h/3hd3dh3o3sht">
+</span>
+</span>
+<span class="trans" lang="ru"> <a href="//ru.thefreedictionary.com/%d1%8f%d0%b1%d0%bb%d0%be%d0%ba%d0%be">яблоко</a>
+<span class="snd2" data-snd="ru/RU/h3/h3flhhh3gjhnggh7">
+</span>
+</span>
+<span class="trans" lang="sv"> äpple<span class="snd2" data-snd="sv/SV/df/df3fsjshsldohr">
+</span>
+</span>
+<span class="trans" lang="th"> แอปเปิ้ล<span class="snd2" data-snd="th/TH/jf/jfgjjnk3ggjlhoflj7gk">
+</span>
+</span>
+<span class="trans" lang="tr"> <a href="//tr.thefreedictionary.com/elma">elma</a>
+<span class="snd2" data-snd="tr/TR/dk/dkddd3sldfht">
+</span>
+</span>
+<span class="trans" lang="vi"> quả táo<span class="snd2" data-snd="vi/VI/dn/dnsjssodjgst3ssdhn">
+</span>
+</span>
+<span class="trans" lang="zh"> <a href="//zh.thefreedictionary.com/%e8%8b%b9%e6%9e%9c">苹果</a>
+<span class="snd2" data-snd="zh/CN/t5/t5not3hf">
+</span>
+</span>
+<div class="cprh">
+<span class="i A cpr">
+</span>Multilingual Translator © HarperCollins Publishers 2009</div>
+</section>
+<section lang="es" data-src="wkEnEs">
+<div lang="En">
+<h2>apple </h2>
+<div class="ds-single">
+<i>n.</i> manzana;<div>
+<b>___picker disease</b> → <span lang="es">enfermedad del colector de manzanas. </span>
+</div>
+</div>
+</div>
+<div class="cprh">
+<span class="i A cpr">
+</span>English-Spanish Medical Dictionary © Farlex 2012</div>
+</section>
+<section lang="es" data-src="mghEnEs">
+<div lang="En">
+<h2>apple</h2>
+<span lang="es"> <em>n</em> manzana</span>
+</div>
+<div class="cprh">
+<span class="i A cpr">
+</span>English-Spanish/Spanish-English Medical Dictionary Copyright © 2006 by The McGraw-Hill Companies, Inc. All rights reserved.</div>
+</section>
+</div>
+</div>
+			
+		</div>
+
+	<aside style="margin-top:1rem">
+	
+		<br>
+<br>
+		Want to thank TFD for its existence? <a href="mailto:?subject=TheFreeDictionary&body=">Tell a friend about us</a>, add a link to this page, or visit <a href="https://www.thefreedictionary.com/lookup.htm">the webmaster's page for free fun content</a>.
+		<br>
+<br>
+		Link to this page: <input type="text" style="direction:ltr" readonly=readonly value="&lt;a href=&quot;https://www.thefreedictionary.com/apple&quot;&gt;apple&lt;/a&gt;" onclick="this.focus();this.select()">
+<br>
+<br>
+		<div class="share-block">
+			<ul class="social-networks">
+				<li class="facebook">
+<a onclick="social.facebook()">Facebook</a>
+</li>
+				<li class="twitter">
+<a onclick="social.twitter()">Twitter</a>
+</li>
+			</ul>
+		</div>
+	
+	</aside>
+		<div class="ee" id="ee5">
+</div>
+		</div>
+</div>
+	<aside id="sidebar">		
+	
+		<div class="feedback">
+<a onclick="social.feedback()">Feedback</a>
+</div>
+		<a id=thes_link class="i" title="Thesaurus" style="background-position:-295px -69px;width:41px;height:15px;margin-right:10px;display:none" onclick="location=nav.loc+'#Thesaurus'">
+</a>
+		<a id=trans_link class="i" title="Translations" style="background-position:-342px -69px;width:41px;height:15px;display:none" onclick="location=nav.loc+'#Translations'">
+</a>	
+		<div class="ee" id="ee2">
+</div>
+        <section class="widget" id="secLoginToAccess">
+			<div class="heading-block">
+				<strong class="title">Flashcards & Bookmarks</strong>
+				<a href="//www.thefreedictionary.com/_/help/help2.htm#22115" class="link">?</a>
+			</div>
+			<div class="holder">Please <a href="https://secure.thefreedictionary.com/Login.aspx?returnTo=https%3a%2f%2fwww.thefreedictionary.com%2fapple">log in</a> or <a href="https://secure.thefreedictionary.com/Registration.aspx?returnTo=https%3a%2f%2fwww.thefreedictionary.com%2fapple">register</a> to use Flashcards and Bookmarks. You can also log in with <ul class="social-networks">
+<li class="facebook">
+<a href="https://secure.thefreedictionary.com/ExtLogin/FacebookLogin.aspx?returnTo=https%3a%2f%2fwww.thefreedictionary.com%2fapple" rel="nofollow">Facebook</a>
+</li>
+<li class="twitter">
+<a href="https://secure.thefreedictionary.com/Login.aspx?twitter&returnTo=https%3a%2f%2fwww.thefreedictionary.com%2fapple" rel="nofollow">Twitter</a>
+</li>
+<li class="googleplus">
+<a href="https://secure.thefreedictionary.com/ExtLogin/GoogleSignIn.ashx?returnTo=https%3a%2f%2fwww.thefreedictionary.com%2fapple">Google</a>
+</li>
+</ul>
+</div>
+		</section>		
+		<section class="widget" id="secFlashcards" style="display:none">
+			<div class="heading-block">
+				<strong class="title">Flashcards</strong>
+				<a href="//www.thefreedictionary.com/_/help/help2.htm#flashcards" class="link">?</a>
+			</div>
+			<div class="holder">
+				<div id="flashcardCont" style="min-height:74px">
+</div>
+				<script>if(info.isLogin){ById('secLoginToAccess').style.display='none';ById('secFlashcards').style.display='';waiting('flashcardCont')}</script>
+			</div>
+		</section>
+		<section id="secBookmarks" class="widget ee" style="display:none">
+			<div class="heading-block">
+				<strong class="title">My bookmarks</strong>
+				<a href="//www.thefreedictionary.com/_/help/help2.htm#22115" class="link">?</a>
+			</div>
+			<div class="holder" id="wordlist-content">
+				<a id="wlExcel" class=i href="//secure.thefreedictionary.com/api/wordList.ashx?excel=1" title="Export to Excel">
+</a>
+				<a style="display:none" id="wlAdd" onclick="fc.bookmarks.add(this)">
+<span class="plus">+&nbsp;</span>Add current page to bookmarks</a>
+				<div id="word_list">
+</div>
+				<script>if (info.isLogin) {ById('secLoginToAccess').style.display='none';ById('secBookmarks').style.display='';ById('secFlashcards').style.display='';waiting('word_list');waiting('flashcardCont');}</script>
+			</div>
+		</section>
+		<div class="ee sticky" id="ee3">
+</div>		
+	</aside>
+</div>
+
+<div id="browsers">
+	
+	<div class="block width34">
+		<div class="heading-block">
+			<strong class="title">Mentioned in</strong>
+			<a href="//www.thefreedictionary.com/_/help/help3.htm#324" class="link">?</a>
+		</div>
+		<div class="list-holder height240">
+			<ul>
+<li>
+<a href="American+crab+apple">American crab apple</a>
+</li>
+<li>
+<a href="Annona+glabra">Annona glabra</a>
+</li>
+<li>
+<a href="Annona+muricata">Annona muricata</a>
+</li>
+<li>
+<a href="Annona+reticulata">Annona reticulata</a>
+</li>
+<li>
+<a href="apple+aphid">apple aphid</a>
+</li>
+<li>
+<a href="apple+blight">apple blight</a>
+</li>
+<li>
+<a href="apple+butter">apple butter</a>
+</li>
+<li>
+<a href="apple+canker">apple canker</a>
+</li>
+<li>
+<a href="apple+dumpling">apple dumpling</a>
+</li>
+<li>
+<a href="apple+fritter">apple fritter</a>
+</li>
+<li>
+<a href="apple+jelly">apple jelly</a>
+</li>
+<li>
+<a href="apple+maggot">apple maggot</a>
+</li>
+<li>
+<a href="apple+mint">apple mint</a>
+</li>
+<li>
+<a href="apple+of+discord">apple of discord</a>
+</li>
+<li>
+<a href="apple+of+Peru">apple of Peru</a>
+</li>
+<li>
+<a href="apple+rust">apple rust</a>
+</li>
+<li>
+<a href="apple+sauce">apple sauce</a>
+</li>
+<li>
+<a href="apple+tart">apple tart</a>
+</li>
+<li>
+<a href="apple+tree">apple tree</a>
+</li>
+</ul>
+		</div>
+	</div>
+	
+		<div class="block width61">
+		<div class="heading-block">
+			
+			<strong class="title">References in classic literature</strong>
+			<a href="//www.thefreedictionary.com/_/help/help3.htm#325" class="link">?</a>
+		</div>
+		<div class="list-holder height240">
+			<div class=lit>As ADAM lay a-dreaming beneath the <span class=highlight>Apple</span> Tree, The Angel of the Earth came down, and offered Earth in fee.<div class=lit_links> <a class=LitContext href="http://kipling.thefreelibrary.com/Actions-and-Reactions/1-11#apple">View in context</a>
+</div>
+</div>
+<div class=lit>There are fifty-seven apple-evaporating furnaces, to say nothing of the <span class=highlight>apple</span> canneries and cider and vinegar factories.<div class=lit_links> <a class=LitContext href="http://london.thefreelibrary.com/The-Valley-of-the-Moon/3-5#apple">View in context</a>
+</div>
+</div>
+<div class=lit>Two Poets were quarrelling for the <span class=highlight>Apple</span> of Discord and the Bone of Contention, for they were very hungry.<div class=lit_links> <a class=LitContext href="http://bierce.thefreelibrary.com/Fantastic-Fables/164-1#apple">View in context</a>
+</div>
+</div>
+<div class=lit>"An <span class=highlight>apple</span> tree -- and away back here!" exclaimed Anne delightedly.<div class=lit_links> <a class=LitContext href="http://montgomery.thefreelibrary.com/Anne-of-The-Island/2-1#apple">View in context</a>
+</div>
+</div>
+<div class=lit>With one hand the shaggy man held the <span class=highlight>apple</span>, which he began eating, while with the other hand he pulled Toto out of his pocket and dropped him to the ground.<div class=lit_links> <a class=LitContext href="http://baum.thefreelibrary.com/The-Road-to-Oz/1-1#apple">View in context</a>
+</div>
+</div>
+<div class=lit>But good did come of the <span class=highlight>apple</span> barrel, as you shall hear, for if it had not been for that, we should have had no note of warning and might all have perished by the hand of treachery.<div class=lit_links> <a class=LitContext href="http://stevenson.thefreelibrary.com/Treasure-Island/2-4#apple">View in context</a>
+</div>
+</div>
+<div class=lit>'Your master the King has sent me hither to tell you to send him his golden armour and his steed and the silver <span class=highlight>apple</span>.'' And bring them to me.'<div class=lit_links> <a class=LitContext href="http://lang.thefreelibrary.com/Yellow-Fairy-Book/1-5#apple">View in context</a>
+</div>
+</div>
+<div class=lit>The white and green light strained through <span class=highlight>apple</span> trees and clustering vines outside fell over the rapt little figure with a half-unearthly radiance.<div class=lit_links> <a class=LitContext href="http://montgomery.thefreelibrary.com/Anne-Of-Green-Gables/8-1#apple">View in context</a>
+</div>
+</div>
+<div class=lit>As he was sitting one evening in his room, a dreadful storm arose without, and the rain streamed down from heaven; but the old poet sat warm and comfortable in his chimney-comer, where the fire blazed and the roasting <span class=highlight>apple</span> hissed.<div class=lit_links> <a class=LitContext href="http://andersen.thefreelibrary.com/Andersens-Fairy-Tales/1-17#apple">View in context</a>
+</div>
+</div>
+<div class=lit>March and Meg sat among the <span class=highlight>apple</span> piles like a pair of Pomonas, sorting the contributions that kept pouring in, while Amy with a beautiful motherly expression in her face sketched the various groups, and watched over one pale lad, who sat adoring her with his little crutch beside him.<div class=lit_links> <a class=LitContext href="http://alcott.thefreelibrary.com/Little-Women/2-23#apple">View in context</a>
+</div>
+</div>
+<div class=lit>"Where shall we go?" said Phoebus; "'To Eve's <span class=highlight>Apple</span>.'"<div class=lit_links> <a class=LitContext href="http://hugo.thefreelibrary.com/Notre-Dame-de-Paris/7-6#apple">View in context</a>
+</div>
+</div>
+<div class=lit>That would be too bad, especially when the late <span class=highlight>apple</span> tree had most obligingly kept its store of blossom until after all the other trees had faded and then burst lavishly into bloom for Aunt Olivia's wedding.<div class=lit_links> <a class=LitContext href="http://montgomery.thefreelibrary.com/The-Golden-Road/17-1#apple">View in context</a>
+</div>
+</div>
+<div data-periodicals="4">
+</div>
+		</div>
+	</div>
+	<br>
+	<div class="block width34">
+		<div class="heading-block">
+			<strong class="title">Dictionary browser</strong>
+			<a href="//www.thefreedictionary.com/_/help/help3.htm#326" class="link">?</a>
+		</div>
+		<div class="list-holder height240">
+			<ul>
+<li>▲</li>
+<li>
+<a href="appetisement">appetisement</a>
+</li>
+<li>
+<a href="appetiser">appetiser</a>
+</li>
+<li>
+<a href="appetising">appetising</a>
+</li>
+<li>
+<a href="appetisingness">appetisingness</a>
+</li>
+<li>
+<a href="appetite">appetite</a>
+</li>
+<li>
+<a href="appetite+suppressant">appetite suppressant</a>
+</li>
+<li>
+<a href="appetite+suppressants">appetite suppressants</a>
+</li>
+<li>
+<a href="appetition">appetition</a>
+</li>
+<li>
+<a href="appetitive">appetitive</a>
+</li>
+<li>
+<a href="appetize">appetize</a>
+</li>
+<li>
+<a href="appetizer">appetizer</a>
+</li>
+<li>
+<a href="appetizing">appetizing</a>
+</li>
+<li>
+<a href="appetizingly">appetizingly</a>
+</li>
+<li>
+<a href="appetizingness">appetizingness</a>
+</li>
+<li>
+<a href="Appian">Appian</a>
+</li>
+<li>
+<a href="Appian+Way">Appian Way</a>
+</li>
+<li>
+<a href="appl">appl</a>
+</li>
+<li>
+<a href="applaud">applaud</a>
+</li>
+<li>
+<a href="applaudable">applaudable</a>
+</li>
+<li>
+<a href="applaudably">applaudably</a>
+</li>
+<li>
+<a href="applauder">applauder</a>
+</li>
+<li>
+<a href="Applausable">Applausable</a>
+</li>
+<li>
+<a href="applause">applause</a>
+</li>
+<li>
+<a href="applausive">applausive</a>
+</li>
+<li>
+<a href="applausively">applausively</a>
+</li>
+<li class=current>apple</li>
+<li>
+<a href="apple+aphid">apple aphid</a>
+</li>
+<li>
+<a href="apple+blight">apple blight</a>
+</li>
+<li>
+<a href="apple+blossom">apple blossom</a>
+</li>
+<li>
+<a href="Apple+borer">Apple borer</a>
+</li>
+<li>
+<a href="apple+box">apple box</a>
+</li>
+<li>
+<a href="Apple+brandy">Apple brandy</a>
+</li>
+<li>
+<a href="apple+butter">apple butter</a>
+</li>
+<li>
+<a href="apple+canker">apple canker</a>
+</li>
+<li>
+<a href="apple+core">apple core</a>
+</li>
+<li>
+<a href="apple+corer">apple corer</a>
+</li>
+<li>
+<a href="apple+dumpling">apple dumpling</a>
+</li>
+<li>
+<a href="Apple+fly">Apple fly</a>
+</li>
+<li>
+<a href="apple+fritter">apple fritter</a>
+</li>
+<li>
+<a href="apple+geranium">apple geranium</a>
+</li>
+<li>
+<a href="apple+green">apple green</a>
+</li>
+<li>
+<a href="Apple+Islander">Apple Islander</a>
+</li>
+<li>
+<a href="Apple+Isle">Apple Isle</a>
+</li>
+<li>
+<a href="apple+jelly">apple jelly</a>
+</li>
+<li>
+<a href="apple+juice">apple juice</a>
+</li>
+<li>
+<a href="apple+maggot">apple maggot</a>
+</li>
+<li>
+<a href="Apple+midge">Apple midge</a>
+</li>
+<li>
+<a href="apple+mint">apple mint</a>
+</li>
+<li>
+<a href="apple+nut">apple nut</a>
+</li>
+<li>
+<a href="apple+of+discord">apple of discord</a>
+</li>
+<li>
+<a href="apple+of+his+eye">apple of his eye</a>
+</li>
+<li>▼</li>
+</ul>
+		</div>
+	</div>
+	
+	<div class="block width61">
+		<div class="heading-block">
+			<strong class="title">Full browser</strong>
+			<a href="//www.thefreedictionary.com/_/help/help3.htm#327" class="link">?</a>
+		</div>
+		<div class="list-holder height240">
+			<ul>
+<li>▲</li>
+<li>
+<a class=tab1024 href="//idioms.thefreedictionary.com/applauding">applauding</a>
+</li>
+<li>
+<a class=tab2048 href="//www.freethesaurus.com/applauding">applauding</a>
+</li>
+<li>
+<a class=tab1 href="//www.thefreedictionary.com/applauding">applauding</a>
+</li>
+<li>
+<a class=tab4 href="//medical-dictionary.thefreedictionary.com/applauding+to+the+echo">applauding to the echo</a>
+</li>
+<li>
+<a class=tab8 href="//encyclopedia2.thefreedictionary.com/applauding+to+the+echo">applauding to the echo</a>
+</li>
+<li>
+<a class=tab2048 href="//www.freethesaurus.com/applauding+to+the+echo">applauding to the echo</a>
+</li>
+<li>
+<a class=tab1 href="//www.thefreedictionary.com/applauding+to+the+echo">applauding to the echo</a>
+</li>
+<li>
+<a class=tab2048 href="//www.freethesaurus.com/applaudingly">applaudingly</a>
+</li>
+<li>
+<a class=tab1 href="//www.thefreedictionary.com/applaudingly">applaudingly</a>
+</li>
+<li>
+<a class=tab1024 href="//idioms.thefreedictionary.com/applauds">applauds</a>
+</li>
+<li>
+<a class=tab2048 href="//www.freethesaurus.com/applauds">applauds</a>
+</li>
+<li>
+<a class=tab1 href="//www.thefreedictionary.com/applauds">applauds</a>
+</li>
+<li>
+<a class=tab4 href="//medical-dictionary.thefreedictionary.com/applauds+to+the+echo">applauds to the echo</a>
+</li>
+<li>
+<a class=tab8 href="//encyclopedia2.thefreedictionary.com/applauds+to+the+echo">applauds to the echo</a>
+</li>
+<li>
+<a class=tab2048 href="//www.freethesaurus.com/applauds+to+the+echo">applauds to the echo</a>
+</li>
+<li>
+<a class=tab1 href="//www.thefreedictionary.com/applauds+to+the+echo">applauds to the echo</a>
+</li>
+<li>
+<a class=tab1 href="//www.thefreedictionary.com/Applausable">Applausable</a>
+</li>
+<li>
+<a class=tab1024 href="//idioms.thefreedictionary.com/applause">applause</a>
+</li>
+<li>
+<a class=tab32 href="//acronyms.thefreedictionary.com/applause">applause</a>
+</li>
+<li>
+<a class=tab8 href="//encyclopedia2.thefreedictionary.com/applause">applause</a>
+</li>
+<li>
+<a class=tab2048 href="//www.freethesaurus.com/applause">applause</a>
+</li>
+<li>
+<a class=tab1 href="//www.thefreedictionary.com/applause">applause</a>
+</li>
+<li>
+<a class=tab256 href="//financial-dictionary.thefreedictionary.com/Applause+Mail">Applause Mail</a>
+</li>
+<li>
+<a class=tab32 href="//acronyms.thefreedictionary.com/Applause+Media+Entertainment">Applause Media Entertainment</a>
+</li>
+<li>
+<a class=tab8 href="//encyclopedia2.thefreedictionary.com/applauses">applauses</a>
+</li>
+<li>
+<a class=tab2048 href="//www.freethesaurus.com/applauses">applauses</a>
+</li>
+<li>
+<a class=tab1 href="//www.thefreedictionary.com/applauses">applauses</a>
+</li>
+<li>
+<a class=tab1 href="//www.thefreedictionary.com/Applausive">Applausive</a>
+</li>
+<li>
+<a class=tab1 href="//www.thefreedictionary.com/applausively">applausively</a>
+</li>
+<li>
+<a class=tab32 href="//acronyms.thefreedictionary.com/APPLD">APPLD</a>
+</li>
+<li class=current>
+<span class=tab1>apple</span>
+</li>
+<li>
+<a class=tab1 href="Apple+(fruit)">Apple (fruit)</a>
+</li>
+<li>
+<a class=tab8 href="//encyclopedia2.thefreedictionary.com/Apple+(fruit)">Apple (fruit)</a>
+</li>
+<li>
+<a class=tab4 href="//medical-dictionary.thefreedictionary.com/Apple+(fruit)">Apple (fruit)</a>
+</li>
+<li>
+<a class=tab1 href="Apple+(tree)">Apple (tree)</a>
+</li>
+<li>
+<a class=tab8 href="//encyclopedia2.thefreedictionary.com/Apple+(tree)">Apple (tree)</a>
+</li>
+<li>
+<a class=tab4 href="//medical-dictionary.thefreedictionary.com/Apple+(tree)">Apple (tree)</a>
+</li>
+<li>
+<a class=tab8 href="//encyclopedia2.thefreedictionary.com/Apple+%2f%2f%2f">Apple ///</a>
+</li>
+<li>
+<a class=tab1 href="Apple+1">Apple 1</a>
+</li>
+<li>
+<a class=tab8 href="//encyclopedia2.thefreedictionary.com/Apple+1">Apple 1</a>
+</li>
+<li>
+<a class=tab4 href="//medical-dictionary.thefreedictionary.com/Apple+1">Apple 1</a>
+</li>
+<li>
+<a class=tab8 href="//encyclopedia2.thefreedictionary.com/Apple+2">Apple 2</a>
+</li>
+<li>
+<a class=tab8 href="//encyclopedia2.thefreedictionary.com/Apple+3">Apple 3</a>
+</li>
+<li>
+<a class=tab1024 href="//idioms.thefreedictionary.com/apple+a+day">apple a day</a>
+</li>
+<li>
+<a class=tab1 href="Apple+A+series">Apple A series</a>
+</li>
+<li>
+<a class=tab256 href="//financial-dictionary.thefreedictionary.com/Apple+A+series">Apple A series</a>
+</li>
+<li>
+<a class=tab8 href="//encyclopedia2.thefreedictionary.com/Apple+A+series">Apple A series</a>
+</li>
+<li>
+<a class=tab4 href="//medical-dictionary.thefreedictionary.com/Apple+A+series">Apple A series</a>
+</li>
+<li>
+<a class=tab8 href="//encyclopedia2.thefreedictionary.com/Apple+A4">Apple A4</a>
+</li>
+<li>
+<a class=tab8 href="//encyclopedia2.thefreedictionary.com/Apple+A5">Apple A5</a>
+</li>
+<li>
+<a class=tab8 href="//encyclopedia2.thefreedictionary.com/Apple+A6">Apple A6</a>
+</li>
+<li>
+<a class=tab8 href="//encyclopedia2.thefreedictionary.com/Apple+A7">Apple A7</a>
+</li>
+<li>
+<a class=tab8 href="//encyclopedia2.thefreedictionary.com/Apple+A7x">Apple A7x</a>
+</li>
+<li>
+<a class=tab8 href="//encyclopedia2.thefreedictionary.com/Apple+A8">Apple A8</a>
+</li>
+<li>
+<a class=tab8 href="//encyclopedia2.thefreedictionary.com/Apple+A8x">Apple A8x</a>
+</li>
+<li>
+<a class=tab1 href="Apple+acid">Apple acid</a>
+</li>
+<li>
+<a class=tab8 href="//encyclopedia2.thefreedictionary.com/Apple+acid">Apple acid</a>
+</li>
+<li>
+<a class=tab4 href="//medical-dictionary.thefreedictionary.com/Apple+acid">Apple acid</a>
+</li>
+<li>
+<a class=tab1 href="Apple+Address+Book">Apple Address Book</a>
+</li>
+<li>
+<a class=tab8 href="//encyclopedia2.thefreedictionary.com/Apple+Address+Book">Apple Address Book</a>
+</li>
+<li>
+<a class=tab8 href="//encyclopedia2.thefreedictionary.com/Apple+Address+Resolution+Protocol">Apple Address Resolution Protocol</a>
+</li>
+<li>▼</li>
+</ul>
+
+		</div>
+	</div>
+	
+</div>
+<div class="ee" id="ee6">
+</div>
+
+			<div id="fixedBlock" class="fixed-block sticky">
+				<div class="box">
+					<ul class="social-networks style02">
+						<li class="facebook">
+<a onclick="social.facebook()">Facebook Share</a>
+</li>
+						<li class="twitter">
+<a onclick="social.twitter(0)">Twitter</a>
+</li>
+					</ul>
+					<a onclick="location='/_/cite.aspx?url='+encodeURIComponent(nav.loc)+'&word='+encodeURIComponent(info.word)+'&sources='+sources" class="i" style="width:42px;height:22px;background-position:0 -37px;margin:5px 0 15px 0;cursor:pointer">CITE</a>
+			</div>
+			<div class="open-box">
+				<div class="holder">
+					<strong class="title">Site:</strong>
+					<span class="title">Follow:</span>
+					<ul class="social-networks">
+						<li class="facebook">
+<a title="Follow on Facebook" href="https://www.facebook.com/pages/TheFreeDictionary/340660446629">Facebook</a>
+</li>
+						<li class="twitter">
+<a title="Follow on Twitter" href="https://twitter.com/farlex">Twitter</a>
+</li>
+						<li class="rss">
+<a title="Follow with RSS" href="http://www.thefreedictionary.com/_/WoD/rss.aspx">Rss</a>
+</li>
+						<li class="mail-us">
+<a title="Daily Newsletter" href="//www.thefreedictionary.com/Word-of-the-Day.htm">Mail</a>
+</li>
+					</ul>
+					<span class="title">Share:</span>
+					<ul class="social-networks">
+						<li class="facebook">
+<a title="Share on Facebook" onclick="social.facebook(1)">Facebook</a>
+</li>
+						<li class="twitter">
+<a title="Share on Twitter" onclick="social.twitter(1)">Twitter</a>
+</li>
+						<li class="linkedin">
+<a title="Share on LinkedIn" onclick="social.linkedin()">LinkedIn</a>
+</li>
+						<li class="mail">
+<a title="E-mail" onclick="social.email()">Mail</a>
+</li>
+					</ul>
+				</div>
+			</div>
+			<a class="block-opener" onclick="showPopup(event,'fixedBlock','open-close-active')">Open / Close</a>
+		</div>
+
+		</main>
+
+		<div id="footer">
+			<aside class="footer-top">
+				<div class="heading">
+					<strong class="title">More from </strong>
+<strong class="i logo footer-logo">
+<a href="/">Dictionary, Thesaurus, and Translations</a>
+</strong>
+				</div>
+				<div class="footer-block mobile-hidden">
+					<strong class="title">Mobile Apps</strong>
+					<ul class="logos-list">
+						<li class="apple">
+<a title="iPhone/iPad app" class=i href="http://up.thefreedictionary.com/trc.ashx?target=iOSFREE&sender=farlex&info=download">Apple</a>
+</li>
+						<li class="android">
+<a title="Android app" class=i href="http://up.thefreedictionary.com/trc.ashx?target=android-web-googleplay-free&sender=farlex&info=download">Android</a>
+</li>
+						<li class="kindle">
+<a title="Kindle app" class=i href="http://up.thefreedictionary.com/trc.ashx?target=android-web-amazon-free&sender=farlex&info=download">Kindle</a>
+</li>
+						<li class="windows">
+<a title="Windows app" class=i href="http://up.thefreedictionary.com/trc.ashx?target=w8&sender=farlex&info=download">Windows</a>
+</li>
+						<li class="winphone">
+<a title="Windows phone app" class=i href="http://up.thefreedictionary.com/trc.ashx?target=winphone&sender=farlex&info=download">Windows Phone</a>
+</li>
+					</ul>
+				</div>
+				<div class="footer-block">
+					<strong class="title">Free Tools</strong>
+					<div class="holder">
+						<div class="holder-list">
+							<strong class="list-title">For surfers:</strong>
+							<ul class="links-list">
+								<li>
+<a href="//www.thefreedictionary.com/download.htm">Free toolbar & extensions</a>
+</li>
+								<li>
+<a href="//www.thefreedictionary.com/Word-of-the-Day.htm">Word of the Day</a>
+</li>
+								<script>document.write(bm)</script>
+								<li>
+<a href="//www.thefreedictionary.com/help.htm">Help</a>
+</li>
+							</ul>
+						</div>
+						<div class="holder-list">
+							<strong class="list-title">For webmasters:</strong>
+							<ul class="links-list">
+								<li>
+<a href="https://www.thefreedictionary.com/lookup.htm#sitecontent">Free content</a>
+</li>
+								<li>
+<a href="https://www.thefreedictionary.com/lookup.htm#link">Linking</a>
+</li>
+								<li>
+<a href="https://www.thefreedictionary.com/lookup.htm#searchbox">Lookup box</a>
+</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</aside>
+			<footer class="footer-bottom">
+				<div class="nav-holder">
+					<ul class="footer-nav">
+						<li style="display:none" id="userConsentPlaceholder">
+</li>
+						<li>
+<a href="//www.thefreedictionary.com/about.htm">Terms of Use</a>
+</li>
+						<li>
+<a href="//www.thefreedictionary.com/privacy-policy.htm">Privacy policy</a>
+</li>
+						<li>
+<a onclick="social.feedback()">Feedback</a>
+</li>
+						<li>
+<a href="//www.thefreedictionary.com/advertise-with-us.htm">Advertise with Us</a>
+</li>
+					</ul>
+					<strong class="copyright">Copyright &copy; 2003-2022 <a href="http://www.farlex.com">Farlex, Inc</a>
+</strong> 
+				</div>
+				<strong class="title">Disclaimer</strong>
+				<p>All content on this website, including dictionary, thesaurus, literature, geography, and other reference data is for informational purposes only. This information should not be considered complete, up to date, and is not intended to be used in place of a visit, consultation, or advice of a legal, medical, or any other professional.</p>
+			</footer>
+		</div>
+	</div>
+</div>
+</div>
+<div class="afs_ads">&nbsp;</div>
+<div class="TopBannerAd">&nbsp;</div>
+<script src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+</script>
+<script src="//img.tfd.com/ads.js">
+</script>
+
+<script>if(window.lib&&window.lib.delayedFunctions)window.lib.delayedExec();window.completed=1;
+
+	function warn(){if(window.noCookieConsent) return;var e = document.createElement('div');e.innerHTML = "<div style='padding:10px 10px;font-size:1.3rem;color:#777'>
+<h1 style='font-size:1.8rem;color:#2484c6'>Thank you for using The Free Dictionary!</h1>
+<br> To stay free, we rely on revenue from ads. If you'd like to experience the site without ads, please consider supporting us by purchasing our <a href='https://secure.thefreedictionary.com/premium/subscribe'>premium ad-free subscription</a>.</div>";
+		var m=ById('header');m.parentElement.insertBefore(e, m);function d(l,i,w){var a=document.createElement('section'),w=ById(w);if(!w) return;a.innerHTML='<div>
+<div>
+<a rel=nofollow href="'+l+'">
+<img src="//img.tfd.com/wn/'+i+'">
+</a>
+</div>
+</div>';w.parentElement.insertBefore(a, w);w.style.display='none'}
+		d(abu+'a', 'qrxnjfktqjrdfrdunvzcfkffkebfsg79',info.a+1);d(abu+'b','qrxnjfktqjrdfrdunvzcfkffkebfsg32',info.a+2);d(abu+'b','qrxnjfktqjrdfrdunvzcfkffkebfsg32',info.a+3);window.warn=null
+	};
+	if(!/premium/.test(document.cookie)&&document.querySelectorAll('div.' + info.a).length&&!/bot|crawl|spider|http/i.test(navigator.userAgent))window.adc=setTimeout(warn,5000);
+	setTimeout(function(){var a=ById(info.a+'1');if(a&&a.scrollHeight==0&&window.warn)warn()},10000);
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create','UA-5484856-1',{'sampleRate':1});ga('send','pageview');
+</script>
+</body>
+</html>
