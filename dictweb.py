@@ -26,17 +26,26 @@ async def Define(word:str = "muxer"):
     # pseg <- the Key Variable in div 
     AllDef = Soup.find_all('div', class_ = "pseg")#It classifies based on noun, adjective , verb , etc
     Definations = list()
+    Type = list()
     print(AllDef,end="\n###\n")
     for MyDef in AllDef:
         print(MyDef.text,end="\n###\n")
         Def = MyDef.find('div')
         if Def != None:
             try:
-                temp = MyDef.text.split(Def.text)[0]
-                print(temp,end="\n!@!@!@!@!@!@\n")
-            except: print("\nNot Found!\n")
-            print(Def,Def.text,sep='\n\n',end="\n###\n")
-            Definations.append(Def.text)
-    print(Definations)
+                temp = MyDef.text.split(Def.text)[0]                
+            except: temp = "\nNot Found!\n"
+            print(temp,end="\n!@!@!@!@!@!@\n")
+            Type.append(temp)
+            temp = Def.text.split('.')
+            if len(temp[0]) == 1:
+                temp = temp[1:]
+            temp = ".".join(temp) 
+            print(Def,Def.text,temp,sep='\n\n',end="\n###\n")
+            Definations.append(temp.strip())
+
+    print("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n")
+    for i in range(len(Type)):
+        print(Type[i],Definations[i],sep=" - ")
 
 asyncio.run(Define())
