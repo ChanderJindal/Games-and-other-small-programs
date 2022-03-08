@@ -7,12 +7,13 @@ async def Get_Soup( URL : str ):
         async with session.get(URL) as response:
             return BS( await response.text(), features="lxml")
 
-async def Define(word:str = "muxer"):
+async def DefineWorker(word:str)->dict():
     Link = f"https://www.thefreedictionary.com/{word}"
     Soup = await Get_Soup(Link)
     AllDef = Soup.find_all('div', class_ = "pseg")#Nouns , adverb , etc divider
     MyDict = dict()
     MyDict["Word"] = word
+    MyDict["Link"] = Link
     for MyDef in AllDef:#MyDef has the meaning as per that part of Speech
         Def = MyDef.find('div')#I am picking up type Defination per Part of Speech
         if Def != None:#Incase something else came in like Idiom or something
@@ -35,8 +36,11 @@ async def Define(word:str = "muxer"):
                 Definations = Definations[1:]
             Definations = ".".join(Definations) 
             Definations.strip()
-        MyDict[Type] = Definations
+            MyDict[Type] = Definations
     return MyDict
 
+def Define(word : str = "muxer") -> dict():
+    return (asyncio.run(DefineWorker(word)))
+
 if __name__ == "__main__":
-    print(asyncio.run(Define()))
+    print(Define())
