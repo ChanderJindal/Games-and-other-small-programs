@@ -31,7 +31,10 @@ async def Define(word:str = "muxer"):
         print(MyDef.text,end="\n###\n")
         Def = MyDef.find('div')
         if Def != None:
-            print()
+            try:
+                temp = MyDef.text.split(Def.text)[0]
+                print(temp,end="\n!@!@!@!@!@!@\n")
+            except: print("\nNot Found!\n")
             print(Def,Def.text,sep='\n\n',end="\n###\n")
             Definations.append(Def.text)
     print(Definations)
