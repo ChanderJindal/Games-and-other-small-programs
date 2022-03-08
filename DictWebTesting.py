@@ -1,5 +1,4 @@
 from bs4 import BeautifulSoup as BS
-import json
 import aiohttp
 import asyncio
 
