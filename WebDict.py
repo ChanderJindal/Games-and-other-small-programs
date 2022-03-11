@@ -5,6 +5,11 @@ import asyncio
 async def Get_Soup( URL : str ):
     async with aiohttp.ClientSession() as session:
         async with session.get(URL) as response:
+            #'''
+            f = open("def.txt","w",encoding="utf-8")
+            f.write(str(await response.text()).replace("><",">\n<"))
+            f.close()
+            #'''
             return BS( await response.text(), features="lxml")
 
 async def DefineWorker(word:str)->dict():
@@ -12,13 +17,11 @@ async def DefineWorker(word:str)->dict():
     Soup = await Get_Soup(Link)
     AllDef = Soup.find_all('div', class_ = "pseg")#Nouns , adverb , etc divider
     MyDict = dict()
-    MyDict["Word"] = word
-    MyDict["Link"] = Link
     for MyDef in AllDef:#MyDef has the meaning as per that part of Speech
         Def = MyDef.find('div')#I am picking up type Defination per Part of Speech
         if Def != None:#Incase something else came in like Idiom or something
             try:
-                Type = MyDef.text.split(Def.text)[0]
+                Type = MyDef.text.split(Def.text)[0].strip()
                 '''
                 Spliting based on the First defination, so 2 parts are there, 
                 1st one has any marking like n. for noun, adj. for adjective , etc
@@ -26,6 +29,12 @@ async def DefineWorker(word:str)->dict():
                 '''          
             except: #if there is no TYPE, not possible, it's not worth it
                 continue;
+            #Wrong one here, pick the 2nd one, also try an iteration for sds after ds
+
+            if Def.find('div',class_="sds-list") != None:
+                Def = Def.find('div',class_="sds-list")
+
+
             Definations = Def.text.split('.')
             '''
             I got the TYPE of defination, but as in Definations themselves I need/wanna remove the 1. / a. / A. / etc 
@@ -36,10 +45,14 @@ async def DefineWorker(word:str)->dict():
                 Definations = Definations[1:]
             Definations = ".".join(Definations) 
             Definations.strip()
-            MyDict[Type] = Definations
+            MyDict[Type] = Definations.strip()
+    
+
+    MyDict["Word"] = word
+    MyDict["Link"] = Link
     return MyDict
 
-def Define(word : str = "muxer") -> dict():
+def Define(word : str = "smoke") -> dict():
     return (asyncio.run(DefineWorker(word)))
 
 if __name__ == "__main__":
