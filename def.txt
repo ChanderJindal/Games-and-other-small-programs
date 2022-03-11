@@ -8,7 +8,7 @@
 <link rel="stylesheet" type="text/css" href="//img.tfd.com/all.css?0">
 <link rel="canonical" href="https://www.thefreedictionary.com/smoke">
 <meta name="og:url" content="https://www.thefreedictionary.com/smoke">
-<script type="text/javascript">_cb='?0';function ById(id){return document.getElementById(id)};var info={IsApp:0,word:'smoke',Domain:'thefreedictionary.com',PageLang:'en',canonical:'https://www.thefreedictionary.com/smoke',tab:1,sp:1,mode:0,flag:3133,isLogin:(/c\d\d[^;]*userTicket=[^;]*/.test(document.cookie)),a:'yz',isExtDomain:false},hp_title='Dictionary, Encyclopedia and Thesaurus - The Free Dictionary',abu='cuvqjwzobhizzjcgkysfdgumxdsgekybd';(function(d,w){var t=/c11.*font=([12]\d)/g.exec(d.cookie);if(t&&t.length>1)d.documentElement.style.fontSize=t[1]+'px';w.bm='';var a=navigator.userAgent,e=a.indexOf('Trident/')>0||a.indexOf('MSIE')>0,f=w.sidebar,t=hp_title,u='http://www.thefreedictionary.com';if(e||f)w.bm='<li>
+<script type="text/javascript">_cb='?0';function ById(id){return document.getElementById(id)};var info={IsApp:0,word:'smoke',Domain:'thefreedictionary.com',PageLang:'en',canonical:'https://www.thefreedictionary.com/smoke',tab:1,sp:1,mode:0,flag:3133,isLogin:(/c\d\d[^;]*userTicket=[^;]*/.test(document.cookie)),a:'wn',isExtDomain:false},hp_title='Dictionary, Encyclopedia and Thesaurus - The Free Dictionary',abu='cuvqjwzobhizzjcgkysfdgumxdsgekybd';(function(d,w){var t=/c11.*font=([12]\d)/g.exec(d.cookie);if(t&&t.length>1)d.documentElement.style.fontSize=t[1]+'px';w.bm='';var a=navigator.userAgent,e=a.indexOf('Trident/')>0||a.indexOf('MSIE')>0,f=w.sidebar,t=hp_title,u='http://www.thefreedictionary.com';if(e||f)w.bm='<li>
 <a href="'+(e?'javascript:external.AddFavorite(\''+u+'\',\''+t+'\')':u)+'" title="'+t+'" rel="sidebar">Bookmark</a>
 </li>'})(document,window);
 function waiting(id){ById(id).innerHTML='<img id="'+id+'_ld" width="16" height="16" src="//img.tfd.com/m/wait16.gif">';setTimeout(function(){if(ById(id+'_ld'))document.getElementById(id).innerHTML='Problem loading data'},10000)}
@@ -28,10 +28,10 @@ function waiting(id){ById(id).innerHTML='<img id="'+id+'_ld" width="16" height="
 <meta property="og:title" content="smoke">
 <meta property="og:type" content="article"> 
 <style type="text/css">
-.yz{margin:0 0 13px 0;display:block;overflow:hidden !important;width:100%}
-.yz iframe{display:block;margin:0 auto 3px auto}
-#yz1{height:90px}#yz2,#yz3,#yz4{margin:0 auto 13px auto;height:265px;width:300px}#yz5{height:375px}#yz3{height:615px}
-#sidebar div.yz,.feedback,.widget{margin-bottom:19px}
+.wn{margin:0 0 13px 0;display:block;overflow:hidden !important;width:100%}
+.wn iframe{display:block;margin:0 auto 3px auto}
+#wn1{height:90px}#wn2,#wn3,#wn4{margin:0 auto 13px auto;height:265px;width:300px}#wn5{height:375px}#wn3{height:615px}
+#sidebar div.wn,.feedback,.widget{margin-bottom:19px}
 @media only screen and (min-width:761px){#browsers .list-holder{height:390px}}
 </style>
 <link href="https://img.tfd.com/wn/7C/6A57A-smoke.png" rel="image_src">
@@ -67,7 +67,7 @@ function waiting(id){ById(id).innerHTML='<img id="'+id+'_ld" width="16" height="
 <body lang="en">
 <div class="print-only">
 <strong style="font-size:23px">Smoke - definition of smoke by The Free Dictionary</strong> <div style="text-align:right">https://www.thefreedictionary.com/smoke</div>
-<a href="/_/hp/Controls/printer-friendly.aspx?47" style="display:none" rel="nofollow">Printer Friendly</a>
+<a href="/_/hp/Controls/printer-friendly.aspx?408" style="display:none" rel="nofollow">Printer Friendly</a>
 <hr>
 </div>
 <div class="wrapper">
@@ -80,7 +80,7 @@ function waiting(id){ById(id).innerHTML='<img id="'+id+'_ld" width="16" height="
 <a href="https://www.thefreedictionary.com">Dictionary, Encyclopedia and Thesaurus - The Free Dictionary</a>
 </strong>
 					<span class="note">
-<span id=ps>13,180,603,601</span> visits served</span>
+<span id=ps>13,180,628,885</span> visits served</span>
 				</div>
 				<div class="open-close">
 					<a class="opener" onclick="showPopup(event,'w1','menu-active', 'w1Slider')">
@@ -385,9 +385,9 @@ function waiting(id){ById(id).innerHTML='<img id="'+id+'_ld" width="16" height="
 		<main id="main" role="main">
 
 <div class="main-holder">
-	<div id="content" class="yz">
+	<div id="content" class="wn">
 		<div class="content-holder">
-			<div class="yz" id="yz1">
+			<div class="wn" id="wn1">
 </div>
 			<h1>smoke</h1>
 <span class="snd2" data-snd="en/US/df/dfsgdnsjdndohr">
@@ -3245,7 +3245,7 @@ function waiting(id){ById(id).innerHTML='<img id="'+id+'_ld" width="16" height="
 		</div>
 	
 	</aside>
-		<div class="yz" id="yz5">
+		<div class="wn" id="wn5">
 </div>
 		</div>
 </div>
@@ -3258,7 +3258,7 @@ function waiting(id){ById(id).innerHTML='<img id="'+id+'_ld" width="16" height="
 </a>
 		<a id=trans_link class="i" title="Translations" style="background-position:-342px -69px;width:41px;height:15px;display:none" onclick="location=nav.loc+'#Translations'">
 </a>	
-		<div class="yz" id="yz2">
+		<div class="wn" id="wn2">
 </div>
         <section class="widget" id="secLoginToAccess">
 			<div class="heading-block">
@@ -3289,7 +3289,7 @@ function waiting(id){ById(id).innerHTML='<img id="'+id+'_ld" width="16" height="
 				<script>if(info.isLogin){ById('secLoginToAccess').style.display='none';ById('secFlashcards').style.display='';waiting('flashcardCont')}</script>
 			</div>
 		</section>
-		<section id="secBookmarks" class="widget yz" style="display:none">
+		<section id="secBookmarks" class="widget wn" style="display:none">
 			<div class="heading-block">
 				<strong class="title">My bookmarks</strong>
 				<a href="//www.thefreedictionary.com/_/help/help2.htm#22115" class="link">?</a>
@@ -3304,7 +3304,7 @@ function waiting(id){ById(id).innerHTML='<img id="'+id+'_ld" width="16" height="
 				<script>if (info.isLogin) {ById('secLoginToAccess').style.display='none';ById('secBookmarks').style.display='';ById('secFlashcards').style.display='';waiting('word_list');waiting('flashcardCont');}</script>
 			</div>
 		</section>
-		<div class="yz sticky" id="yz3">
+		<div class="wn sticky" id="wn3">
 </div>		
 	</aside>
 </div>
@@ -3789,7 +3789,7 @@ function waiting(id){ById(id).innerHTML='<img id="'+id+'_ld" width="16" height="
 	</div>
 	
 </div>
-<div class="yz" id="yz6">
+<div class="wn" id="wn6">
 </div>
 
 			<div id="fixedBlock" class="fixed-block sticky">
