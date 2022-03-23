@@ -71,11 +71,12 @@ async def DefineWorker(word:str)->dict():
             Definations = ".".join(Definations) 
             Definations.strip()
             MyDict[Type] = Definations.strip()
-    MyDict = DictRefine(MyDict=MyDict,word=word)
+    #print(MyDict)
+    #MyDict = DictRefine(MyDict=MyDict,word=word)
     return MyDict
 
 def Define(word : str = "smoke") -> dict():
     return (asyncio.run(DefineWorker(word)))
 
 if __name__ == "__main__":
-    print(Define())
+    print(Define("subscriptable"))
